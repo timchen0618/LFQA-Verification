@@ -1,0 +1,7 @@
+Documents: {DOCUMENTS}
+
+ Generate a long answer to the following question, using information from the documents.
+
+ Question: {QUESTION} 
+
+ Answer:
