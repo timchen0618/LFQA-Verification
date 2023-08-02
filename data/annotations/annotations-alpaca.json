@@ -1,6 +1,6 @@
 [
     {
-        "questionid": "alpaca-0",
+        "question_id": 0,
         "question": "Why is a runners heart rate lower than a non runner",
         "answers": [
             "A runners heart rate is normally lower than a non-runner's heart rate due to the increased physical activity that comes with running.",
@@ -35,7 +35,7 @@
         ]
     },
     {
-        "questionid": "alpaca-1",
+        "question_id": 1,
         "question": "Why are there only circular planets? Why can't there be square or rectangular ones?",
         "answers": [
             "Circular planets are much more common than other shapes due to the nature of the solar system.",
@@ -151,7 +151,7 @@
         ]
     },
     {
-        "questionid": "alpaca-2",
+        "question_id": 2,
         "question": "Why is the Tar Baby from \"Song of the South\" racist?  Why, exactly, is the movie in general considered racist?",
         "answers": [
             "The Tar Baby itself is racist because it reinforces stereotypes about African Americans in its portrayal of a mischievous, lazy, and childish character.",
@@ -186,7 +186,7 @@
         ]
     },
     {
-        "questionid": "alpaca-3",
+        "question_id": 3,
         "question": "Why do french fries taste awful if reheated, but something like pizza is comparable whether fresh or reheated?",
         "answers": [
             "French fries are generally fried in oil, so when reheated the oil starts to break down, leading to the production of free radicals which are unhealthy chemicals that can cause cell damage and lead to premature aging.",
@@ -221,7 +221,7 @@
         ]
     },
     {
-        "questionid": "alpaca-4",
+        "question_id": 4,
         "question": "Why do some liquids form skins on them but others don't?",
         "answers": [
             "The main factor that determines whether a liquid will form a skin is its surface tension.",
@@ -274,7 +274,7 @@
         ]
     },
     {
-        "questionid": "alpaca-5",
+        "question_id": 5,
         "question": "what causes the center of ice to whiten?",
         "answers": [
             "The whitening of ice is caused by the presence of air bubbles, which are trapped inside the ice when it is formed.",
@@ -363,7 +363,7 @@
         ]
     },
     {
-        "questionid": "alpaca-6",
+        "question_id": 6,
         "question": "2pac has like 5 albumns since his death. whats going on, who has the rights? seems to be with a million different artists",
         "answers": [
             "Since 2Pac's death in 1996, there have been several artists who have been associated with his legacy.",
@@ -434,7 +434,7 @@
         ]
     },
     {
-        "questionid": "alpaca-7",
+        "question_id": 7,
         "question": "If I were to create a company, have $1M debt, go bankrupt, how would the company that I owe get its money ? do I have to pay ?",
         "answers": [
             "In the event of a company going bankrupt, its assets, such as bank accounts, inventory and property, are liquidated to pay off debts.",
@@ -487,7 +487,7 @@
         ]
     },
     {
-        "questionid": "alpaca-8",
+        "question_id": 8,
         "question": "Why is photographer Terry Richardson so famous and prevalent.",
         "answers": [
             "Terry Richardson is a famous and prolific fashion and portrait photographer, known for his intimate, often provocative shots.",
@@ -531,7 +531,7 @@
         ]
     },
     {
-        "questionid": "alpaca-9",
+        "question_id": 9,
         "question": "Why do we use air filled tires and not tires made of solid rubber, that don't run the risk of going flat?",
         "answers": [
             "The main reason why we use air filled tires is because they provide a better ride and handling on the road.",
@@ -602,7 +602,7 @@
         ]
     },
     {
-        "questionid": "alpaca-10",
+        "question_id": 10,
         "question": "Why do VGA/DVI cables have to be screwed in, but HDMI and other cables don't?",
         "answers": [
             "VGA/DVI cables have to be screwed in to keep them securely connected to the ports on the monitor or TV.",
@@ -637,7 +637,7 @@
         ]
     },
     {
-        "questionid": "alpaca-11",
+        "question_id": 11,
         "question": "Why do different European languages have such varying names for Germany?",
         "answers": [
             "Different European languages have unique names for Germany due to the language's history and geography.",
@@ -690,7 +690,7 @@
         ]
     },
     {
-        "questionid": "alpaca-12",
+        "question_id": 12,
         "question": "Why does a cold plastic bottle of water sweat?",
         "answers": [
             "A cold plastic bottle of water sweats when it is heated by the sun, as the liquid inside cools back down to the ambient temperature, it creates condensation which forms droplets on the outside of the bottle.",
@@ -716,7 +716,7 @@
         ]
     },
     {
-        "questionid": "alpaca-13",
+        "question_id": 13,
         "question": "How can someone put me in to jail if i am not guilty?",
         "answers": [
             "Someone can put you in jail even if you are innocent if an accusation is enough to meet the legal requirements for a conviction.",
@@ -760,7 +760,7 @@
         ]
     },
     {
-        "questionid": "alpaca-14",
+        "question_id": 14,
         "question": "Why oil and gas rigs may cause earthquake and falls?",
         "answers": [
             "Oil and gas rigs can cause earthquakes and falls due to a variety of factors.",
@@ -804,7 +804,7 @@
         ]
     },
     {
-        "questionid": "alpaca-15",
+        "question_id": 15,
         "question": "How is negative temperature possible in Kelvin scale?",
         "answers": [
             "In the Kelvin temperature scale, negative temperatures indicate a system that is above absolute zero, and thus has a lower entropy than its ground state.",
@@ -839,7 +839,7 @@
         ]
     },
     {
-        "questionid": "alpaca-16",
+        "question_id": 16,
         "question": "Why do I sweat more after getting out of the shower?",
         "answers": [
             "After getting out of the shower, you may sweat more as your body attempts to regulate its temperature.",
@@ -874,7 +874,7 @@
         ]
     },
     {
-        "questionid": "alpaca-17",
+        "question_id": 17,
         "question": "Why am I unstable on my bike when it's stationary but not when it's moving?",
         "answers": [
             "When your bike is stationary, the tires are not in contact with the ground and so the friction between the bike and the surface is almost zero.",
@@ -927,7 +927,7 @@
         ]
     },
     {
-        "questionid": "alpaca-18",
+        "question_id": 18,
         "question": "Scientifically speaking , how likely is it that our existence is extremely small?",
         "answers": [
             "From a scientific perspective, it is highly unlikely that our existence is extremely small.",
@@ -980,7 +980,7 @@
         ]
     },
     {
-        "questionid": "alpaca-19",
+        "question_id": 19,
         "question": "Why do fish that live around coral reefs appear to be more colorful than fish that don't live around coral reefs?",
         "answers": [
             "Fish that live in coral reefs have a much higher abundance of coral and other organisms that live on the reef.",
@@ -1024,7 +1024,7 @@
         ]
     },
     {
-        "questionid": "alpaca-20",
+        "question_id": 20,
         "question": "Birds in the Northern Hemisphere migrate south for the winter. Are there birds from the Southern Hemisphere that migrate north for the summer? What species are they?",
         "answers": [
             "Yes, there are.",
@@ -1059,7 +1059,7 @@
         ]
     },
     {
-        "questionid": "alpaca-21",
+        "question_id": 21,
         "question": "Why does it feel like less effort to watch 3 - hour long TV episodes back to back than a film?",
         "answers": [
             "It feels like less effort to watch three-hour long TV episodes back to back because our brains are used to being engaged in a long-term storyline.",
@@ -1103,7 +1103,7 @@
         ]
     },
     {
-        "questionid": "alpaca-22",
+        "question_id": 22,
         "question": "What parts I would need to replace my Cable Box in the UK if I build a HTPC?",
         "answers": [
             "In order to replace your cable box in the UK, you would need to purchase a PC case that is compatible with the TV and audio connections that you need.",
@@ -1147,7 +1147,7 @@
         ]
     },
     {
-        "questionid": "alpaca-23",
+        "question_id": 23,
         "question": "Why does the President of the United States need to be born in the United States to be eligible to run?",
         "answers": [
             "The United States Constitution requires that the President of the United States be a \"natural born Citizen\" of the United States.",
@@ -1182,7 +1182,7 @@
         ]
     },
     {
-        "questionid": "alpaca-24",
+        "question_id": 24,
         "question": "Why do some planets form rings while others form moons?",
         "answers": [
             "Planets form rings when they are too far away from their stars to be affected by the star's gravitational pull.",
@@ -1235,7 +1235,7 @@
         ]
     },
     {
-        "questionid": "alpaca-25",
+        "question_id": 25,
         "question": "How do contact lens stay on your iris? What stops them from moving all over your eye?",
         "answers": [
             "Contact lenses stay on the eye because of the natural suction that is created when they are worn.",
@@ -1279,7 +1279,7 @@
         ]
     },
     {
-        "questionid": "alpaca-26",
+        "question_id": 26,
         "question": "Why do solar systems look mostly 'flat'?",
         "answers": [
             "Solar systems look mostly \u2018flat\u2019 because the planets in the system orbit the star in a flat, plane-like structure.",
@@ -1305,7 +1305,7 @@
         ]
     },
     {
-        "questionid": "alpaca-27",
+        "question_id": 27,
         "question": "If you put glasses from someone with dioptry, do you see like they see without them?",
         "answers": [
             "Generally, yes.",
@@ -1349,7 +1349,7 @@
         ]
     },
     {
-        "questionid": "alpaca-28",
+        "question_id": 28,
         "question": "FB posts baiting people to \"share if you see x\" or \"Little Timmy has Cancer and will live with 1M Likes\" or the easy puzzles designed to stroke your ego and post the answer. Does anyone make money from this?",
         "answers": [
             "Yes.",
@@ -1393,7 +1393,7 @@
         ]
     },
     {
-        "questionid": "alpaca-29",
+        "question_id": 29,
         "question": "Why is automatic transmission fluid so unique? Does the viscosity of ATF change the more it moves?",
         "answers": [
             "Automatic transmission fluid, or ATF, is a special type of liquid designed to provide the best performance from automatic transmissions.",
@@ -1437,7 +1437,7 @@
         ]
     },
     {
-        "questionid": "alpaca-30",
+        "question_id": 30,
         "question": "How has technological growth increased so exponentially in the last 50 years?",
         "answers": [
             "Technological growth has been increasing exponentially for a few reasons.",
@@ -1490,7 +1490,7 @@
         ]
     },
     {
-        "questionid": "alpaca-31",
+        "question_id": 31,
         "question": "what is 'Magnetic moment'",
         "answers": [
             "A magnetic moment is the directional property of a magnet that causes materials to align with its magnetic field.",
@@ -1579,7 +1579,7 @@
         ]
     },
     {
-        "questionid": "alpaca-32",
+        "question_id": 32,
         "question": "What is the difference between sigma bonds and pi bonds?",
         "answers": [
             "Sigma bonds are bonds that involve the sharing of a pair of electrons between two atoms, while pi bonds involve the sharing of a pair of electrons between three atoms.</s>"
@@ -1596,7 +1596,7 @@
         ]
     },
     {
-        "questionid": "alpaca-33",
+        "question_id": 33,
         "question": "Do people who hear for the first time, after something like getting hearing implants, know what the other people are saying?",
         "answers": [
             "Yes, most people who receive hearing implants are able to understand speech more clearly and have an improved ability to detect sound cues.",
@@ -1640,7 +1640,7 @@
         ]
     },
     {
-        "questionid": "alpaca-34",
+        "question_id": 34,
         "question": "What is austerity?",
         "answers": [
             "Austerity is a policy of deliberate deficit reduction, usually involving spending cuts and tax increases, in order to reduce government debt and narrow budget deficits.",
@@ -1666,7 +1666,7 @@
         ]
     },
     {
-        "questionid": "alpaca-35",
+        "question_id": 35,
         "question": "Why do we say \"pair of pants/jeans/shorts\" when talking about one item of clothing when they are clearly not multiples?",
         "answers": [
             "It's a figure of speech called a \"pair of anything\" which is used to refer to two of something.",
@@ -1701,7 +1701,7 @@
         ]
     },
     {
-        "questionid": "alpaca-36",
+        "question_id": 36,
         "question": "Why do undocumented immigrants returning to Mexico drive down wages there, but proponents of relaxed immigration say they don't do the same here?",
         "answers": [
             "Proponents of relaxed immigration contend that immigrants, both legal and illegal, have a positive economic impact on the United States.",
@@ -1799,7 +1799,7 @@
         ]
     },
     {
-        "questionid": "alpaca-37",
+        "question_id": 37,
         "question": "Explain: The security implications Microsoft's \"golden key\" backdoor, present in all copies of Windows since Windows 8.",
         "answers": [
             "Microsoft's \"golden key\" backdoor is a functionality present in all copies of Windows since Windows 8 that allows the company to access any device running the operating system in case of an emergency.",
@@ -1861,7 +1861,7 @@
         ]
     },
     {
-        "questionid": "alpaca-38",
+        "question_id": 38,
         "question": "Why does it seem like when I watch something the second time around, it goes by faster than the first time I watched it?",
         "answers": [
             "This is likely due to the fact that you are more familiar with the content the second time you watch it.",
@@ -1896,7 +1896,7 @@
         ]
     },
     {
-        "questionid": "alpaca-39",
+        "question_id": 39,
         "question": "How can a vehicle's air filter effect its gas mileage?",
         "answers": [
             "An vehicle's air filter is one of the key elements in its engine system that can have a direct impact on its fuel efficiency.",
@@ -1976,7 +1976,7 @@
         ]
     },
     {
-        "questionid": "alpaca-40",
+        "question_id": 40,
         "question": "- Why does Eminem give so much praise to Dr Dre? He talks about him like a father in his music.",
         "answers": [
             "Eminem gives praise to Dr. Dre because they have a strong, fatherly-like relationship.",
@@ -2020,7 +2020,7 @@
         ]
     },
     {
-        "questionid": "alpaca-41",
+        "question_id": 41,
         "question": "Why do benches empty when there is a fight in baseball?",
         "answers": [
             "When there is a fight in baseball, the spectators tend to leave the bench and pour onto the field.",
@@ -2082,7 +2082,7 @@
         ]
     },
     {
-        "questionid": "alpaca-42",
+        "question_id": 42,
         "question": "Why is eating burnt food bad for you?",
         "answers": [
             "Eating burnt food is bad for you because it can lead to the consumption of potentially harmful chemicals, such as dioxins, which are known to be toxic.",
@@ -2117,7 +2117,7 @@
         ]
     },
     {
-        "questionid": "alpaca-43",
+        "question_id": 43,
         "question": "How did people manipulate photographs before computers?",
         "answers": [
             "Before the advent of computers, photographs were manipulated by hand using a variety of techniques.",
@@ -2197,7 +2197,7 @@
         ]
     },
     {
-        "questionid": "alpaca-44",
+        "question_id": 44,
         "question": "how is a heavy duty clog cleaner able to work on a significant amount of standing water?",
         "answers": [
             "A heavy duty clog cleaner works by using a powerful suction force to draw the water and debris into the cleaner where it is then separated and discharged through an outlet.",
@@ -2241,7 +2241,7 @@
         ]
     },
     {
-        "questionid": "alpaca-45",
+        "question_id": 45,
         "question": "Why does lying down reduce my urge to puke when I feel like puking?",
         "answers": [
             "When a person lies down, the body and the mind become more relaxed which helps reduce the feeling of nausea and the urge to puke.",
@@ -2276,7 +2276,7 @@
         ]
     },
     {
-        "questionid": "alpaca-46",
+        "question_id": 46,
         "question": "Why do people in all old voice recordings have the same \"old timey\" accents?",
         "answers": [
             "People in old voice recordings tend to have \"old timey\" accents due to the limits of the technology at the time.",
@@ -2320,7 +2320,7 @@
         ]
     },
     {
-        "questionid": "alpaca-47",
+        "question_id": 47,
         "question": "Why will a file load to 99% with no problem then hang for what seems like forever?",
         "answers": [
             "There are several reasons why a file might load to 99% and then hang.",
@@ -2355,7 +2355,7 @@
         ]
     },
     {
-        "questionid": "alpaca-48",
+        "question_id": 48,
         "question": "When I watch cooking shows it never shows the chefs washing their hands or cleaning anything, how often do chefs wash their hands? What about knives, utensils, etc?",
         "answers": [
             "Chefs are expected to wash their hands frequently, especially when handling food or cleaning equipment.",
@@ -2390,7 +2390,7 @@
         ]
     },
     {
-        "questionid": "alpaca-49",
+        "question_id": 49,
         "question": "The Lean Six Sigma Methodology",
         "answers": [
             "The Lean Six Sigma Methodology is a set of business process improvement techniques that utilize data-driven decision making and are geared toward optimizing efficiency and reducing defects in processes.",
@@ -2425,7 +2425,7 @@
         ]
     },
     {
-        "questionid": "alpaca-50",
+        "question_id": 50,
         "question": "What causes us to tear up when we cut onions? Is there a way to prevent this?",
         "answers": [
             "When we cut onions, the layers of the onion contain a compound known as lachrymatory factor, which is responsible for the tearing and burning sensation that we feel in our eyes.",
@@ -2469,7 +2469,7 @@
         ]
     },
     {
-        "questionid": "alpaca-51",
+        "question_id": 51,
         "question": "Why do police officers have bullet proof vests for covering vital organs when often times they leave their heads unprotected?",
         "answers": [
             "Police officers have bullet proof vests to protect vital organs such as their hearts, lungs and kidneys from being pierced by bullets.",
@@ -2513,7 +2513,7 @@
         ]
     },
     {
-        "questionid": "alpaca-52",
+        "question_id": 52,
         "question": "Explain: Having a \"stone\" in your saliva gland.",
         "answers": [
             "Having a \"stone\" in your saliva gland is a fairly uncommon condition that can cause significant pain and discomfort.",
@@ -2557,7 +2557,7 @@
         ]
     },
     {
-        "questionid": "alpaca-53",
+        "question_id": 53,
         "question": "Why does smoking tobacco cause cancer, but smoking marijuana does not?",
         "answers": [
             "Smoking tobacco is associated with the development of cancer due to the presence of a group of carcinogenic chemicals produced when tobacco is burned.",
@@ -2583,7 +2583,7 @@
         ]
     },
     {
-        "questionid": "alpaca-54",
+        "question_id": 54,
         "question": "How do contact lenses center themselves and stay centered",
         "answers": [
             "Contact lenses are made of transparent polymer materials and have a thin, round optical center.",
@@ -2960,7 +2960,7 @@
         ]
     },
     {
-        "questionid": "alpaca-55",
+        "question_id": 55,
         "question": "PayPal, how it works, if it's trustworthy/worthwhile and should I get it?",
         "answers": [
             "PayPal is an online payment system that allows users to send and receive payments online.",
@@ -3013,7 +3013,7 @@
         ]
     },
     {
-        "questionid": "alpaca-56",
+        "question_id": 56,
         "question": "How can water boil below 100\u00b0C?",
         "answers": [
             "Water can boil below 100\u00b0C if it is heated to a sufficiently high pressure.",
@@ -3039,7 +3039,7 @@
         ]
     },
     {
-        "questionid": "alpaca-57",
+        "question_id": 57,
         "question": "How can food and drinks that are advertised as 0 calories still be metabolized and used as energy by your body?",
         "answers": [
             "Food and drinks that are advertised as 0 calories can still be metabolized and used as energy by your body for a variety of reasons.",
@@ -3092,7 +3092,7 @@
         ]
     },
     {
-        "questionid": "alpaca-58",
+        "question_id": 58,
         "question": "All these stories about the \"fake snow\" being passed around within the past week or so... what is REALLY going on here?",
         "answers": [
             "It appears that there has been a large-scale prank going around involving \"fake snow\".",
@@ -3145,7 +3145,7 @@
         ]
     },
     {
-        "questionid": "alpaca-59",
+        "question_id": 59,
         "question": "why does the file size of digital photos vary when the pixel count doesn't change?",
         "answers": [
             "The file size of digital photos can vary for a variety of reasons, including the resolution of the photo, the compression type, the color mode, and the type of photo editing that has been done.",
@@ -3189,7 +3189,7 @@
         ]
     },
     {
-        "questionid": "alpaca-60",
+        "question_id": 60,
         "question": "Why do so many perfume commercials make no sense or are almost entirely unrelated to perfume?",
         "answers": [
             "Perfume commercials often employ a variety of techniques to encourage consumers to purchase their product.",
@@ -3260,7 +3260,7 @@
         ]
     },
     {
-        "questionid": "alpaca-61",
+        "question_id": 61,
         "question": "after World War II, what changes did Germany make to it's own political system to ensure a dictator figure could never take power again?",
         "answers": [
             "In the aftermath of World War II, Germany enacted various reforms to its political system in order to prevent any one individual or party from gaining total control of the government.",
@@ -3322,7 +3322,7 @@
         ]
     },
     {
-        "questionid": "alpaca-62",
+        "question_id": 62,
         "question": "Why is it harder to fall asleep in noisy environments?",
         "answers": [
             "It is harder to fall asleep in noisy environments because it is more difficult to find a comfortable position for restful sleep when there are distractions.",
@@ -3348,7 +3348,7 @@
         ]
     },
     {
-        "questionid": "alpaca-63",
+        "question_id": 63,
         "question": "How do animals deal with getting prickles/thorns/splinters etc in their feet?",
         "answers": [
             "Animals typically have several different strategies for dealing with prickles, thorns, and splinters in their feet.",
@@ -3401,7 +3401,7 @@
         ]
     },
     {
-        "questionid": "alpaca-64",
+        "question_id": 64,
         "question": "How come some people have lovely handwriting and others don't?",
         "answers": [
             "There are many factors that can determine how good a person's handwriting is.",
@@ -3454,7 +3454,7 @@
         ]
     },
     {
-        "questionid": "alpaca-65",
+        "question_id": 65,
         "question": "How were continents, countries and coastlines mapped out prior to the invention of satellites?",
         "answers": [
             "Prior to the invention of satellites, continents, countries and coastlines were mapped out using terrestrial methods such as surveying and cartography.",
@@ -3498,7 +3498,7 @@
         ]
     },
     {
-        "questionid": "alpaca-66",
+        "question_id": 66,
         "question": "Seismologists: How do you determine whether an earthquake was naturally occurring or if it was human induced?",
         "answers": [
             "To determine whether an earthquake was naturally occurring or human induced, seismologists analyze the source region of the earthquake by collecting data from the epicenter and surrounding areas.",
@@ -3542,7 +3542,7 @@
         ]
     },
     {
-        "questionid": "alpaca-67",
+        "question_id": 67,
         "question": "Why do we prefer cold pillows to warm pillows?",
         "answers": [
             "We prefer cold pillows to warm pillows because cold pillows keep us cool throughout the night.",
@@ -3595,7 +3595,7 @@
         ]
     },
     {
-        "questionid": "alpaca-68",
+        "question_id": 68,
         "question": "How would the EU effectively retaliate against anything, should they be against what the United States has implemented? If things took a turn for the worse on the Paris Agreement, what would a hard stance against the US look like?",
         "answers": [
             "The EU has a variety of tools at its disposal to respond to any US measures taken against the Paris Agreement.",
@@ -3666,7 +3666,7 @@
         ]
     },
     {
-        "questionid": "alpaca-69",
+        "question_id": 69,
         "question": "How does CRISPR work in a practical sense?",
         "answers": [
             "In a practical sense, CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is an efficient and cost-effective form of gene editing which is used to make precise changes to an organism's genetic code.",
@@ -3719,7 +3719,7 @@
         ]
     },
     {
-        "questionid": "alpaca-70",
+        "question_id": 70,
         "question": "As a person with astigmatism, why is it when I squint my eyes a little I can see a little clearer?",
         "answers": [
             "When you squint your eyes, you are changing the shape of your cornea which reduces the astigmatism in your eye.",
@@ -3745,7 +3745,7 @@
         ]
     },
     {
-        "questionid": "alpaca-71",
+        "question_id": 71,
         "question": "Why can I eat mold on a cheese, but not on any other foods?",
         "answers": [
             "It is safe to eat mold on a cheese due to the fact that the cheese is made from a milk and whey base which inhibits the growth of mold.",
@@ -3780,7 +3780,7 @@
         ]
     },
     {
-        "questionid": "alpaca-72",
+        "question_id": 72,
         "question": "Why is Allah translated as god in subtitles yet is basically just referred to as Allah outside of the translation",
         "answers": [
             "The use of the word \u201cAllah\u201d in subtitles is a translation of an Arabic word that means \u201cGod\u201d.",
@@ -3806,7 +3806,7 @@
         ]
     },
     {
-        "questionid": "alpaca-73",
+        "question_id": 73,
         "question": "Shutter Speed and Aperture.",
         "answers": [
             "Shutter speed and aperture are two of the most important elements of photography.",
@@ -3868,7 +3868,7 @@
         ]
     },
     {
-        "questionid": "alpaca-74",
+        "question_id": 74,
         "question": "Why does reddit give up loading pages without even trying?",
         "answers": [
             "Reddit often gives up loading a page without even trying.",
@@ -3903,7 +3903,7 @@
         ]
     },
     {
-        "questionid": "alpaca-75",
+        "question_id": 75,
         "question": "What exactly is going on with my computer when it crashes?",
         "answers": [
             "When your computer crashes it means that there is a problem that cannot be fixed quickly.",
@@ -3974,7 +3974,7 @@
         ]
     },
     {
-        "questionid": "alpaca-76",
+        "question_id": 76,
         "question": "How does applying a foreign substance to a baseball (e.g. pine tar, vaseline, crisco) give the pitcher a competitive advantage over the hitter? Why is it worth the risk?",
         "answers": [
             "Applying a foreign substance to a baseball can give a pitcher a competitive advantage over the hitter because it can affect the way the ball behaves as it moves toward the plate.",
@@ -4018,7 +4018,7 @@
         ]
     },
     {
-        "questionid": "alpaca-77",
+        "question_id": 77,
         "question": "Dictionary tells me agnostic means \"I think it can't be proven\" but commonly in North America people seem to use it to mean \"kinda don't believe in God\". Why is that?",
         "answers": [
             "That is because people have come to understand agnosticism as a leaning towards atheism, despite the original definition of the word.",
@@ -4053,7 +4053,7 @@
         ]
     },
     {
-        "questionid": "alpaca-78",
+        "question_id": 78,
         "question": "Why is it that a fully buffered YouTube video will buffer again from where you click on the progress bar when you skip a few seconds ahead?",
         "answers": [
             "This is due to a feature known as buffer pruning, which is used by YouTube to optimize the buffering process.",
@@ -4088,7 +4088,7 @@
         ]
     },
     {
-        "questionid": "alpaca-79",
+        "question_id": 79,
         "question": "What does \"bit\" mean, in reference to Encryption? i.e 4096-bit encrypted",
         "answers": [
             "\u201cBit\u201d is short for binary digit.",
@@ -4132,7 +4132,7 @@
         ]
     },
     {
-        "questionid": "alpaca-80",
+        "question_id": 80,
         "question": "Why sp@m Ema1ls are typed l1ke this?",
         "answers": [
             "Spam emails are typically typed in this way because it makes them harder to detect by automated systems and filters.",
@@ -4167,7 +4167,7 @@
         ]
     },
     {
-        "questionid": "alpaca-81",
+        "question_id": 81,
         "question": "What would happen to my body if I were trapped somewhere with a reliable water supply but no food",
         "answers": [
             "If a person was trapped somewhere with a reliable water supply but no food, they would experience several physiological effects.",
@@ -4247,7 +4247,7 @@
         ]
     },
     {
-        "questionid": "alpaca-82",
+        "question_id": 82,
         "question": "Why does my pee smell like asparagus when I eat asparagus but it never smells like anything cool, like lobster tail or ice cream sundae, when I eat something cool?",
         "answers": [
             "Asparagus contains a compound called asparagine, which is broken down by the body to produce a strong-smelling odor in your urine.",
@@ -4282,7 +4282,7 @@
         ]
     },
     {
-        "questionid": "alpaca-83",
+        "question_id": 83,
         "question": "Why did we decide that certain words were \"bad\" and shouldn't be used in social settings?",
         "answers": [
             "The history of the words \"bad\" and \"taboo\" is closely related.",
@@ -4353,7 +4353,7 @@
         ]
     },
     {
-        "questionid": "alpaca-84",
+        "question_id": 84,
         "question": "why is alcohol the only drink people binge on?",
         "answers": [
             "Alcohol is often seen as a way to relax and let loose, and people can often use it to cope with difficult emotions or to fit in.",
@@ -4388,7 +4388,7 @@
         ]
     },
     {
-        "questionid": "alpaca-85",
+        "question_id": 85,
         "question": "what do you do if you get pulled over?",
         "answers": [
             "If you get pulled over, you should remain calm and put on your hazard lights.",
@@ -4441,7 +4441,7 @@
         ]
     },
     {
-        "questionid": "alpaca-86",
+        "question_id": 86,
         "question": "Why do dogs shake their legs when you scratch a certain part of them?",
         "answers": [
             "Dogs shake their legs when you scratch them in the dorsal-lateral region of their neck.",
@@ -4467,7 +4467,7 @@
         ]
     },
     {
-        "questionid": "alpaca-87",
+        "question_id": 87,
         "question": "Should the average person be concerned about the spread of Ebola as of right now?",
         "answers": [
             "Yes, the average person should be concerned about the spread of Ebola as of right now.",
@@ -4502,7 +4502,7 @@
         ]
     },
     {
-        "questionid": "alpaca-88",
+        "question_id": 88,
         "question": "Will we ever know what happens when we die?",
         "answers": [
             "It is difficult to know for certain what happens when we die, as each person's experience is unique and no one can know for certain what lies beyond this life.",
@@ -4546,7 +4546,7 @@
         ]
     },
     {
-        "questionid": "alpaca-89",
+        "question_id": 89,
         "question": "Why do some people dream deeply and vividly while others rarely remember theirs?",
         "answers": [
             "There are several possible explanations for why some people dream deeply and vividly while others rarely remember their dreams.",
@@ -4644,7 +4644,7 @@
         ]
     },
     {
-        "questionid": "alpaca-90",
+        "question_id": 90,
         "question": "How do we synchronize our pace when walking next to someone?",
         "answers": [
             "We adjust our pace so that we are walking at the same speed by either speeding up or slowing down our movement based on the other person's speed.",
@@ -4679,7 +4679,7 @@
         ]
     },
     {
-        "questionid": "alpaca-91",
+        "question_id": 91,
         "question": "How does money go from my pocket, through the stock market, and to support the business I've bought stock from?",
         "answers": [
             "When you buy stock in a company, you become a part-owner of that company.",
@@ -4741,7 +4741,7 @@
         ]
     },
     {
-        "questionid": "alpaca-92",
+        "question_id": 92,
         "question": "Why doesn't it thunder during snow storms?",
         "answers": [
             "During a snow storm, the air is already full of water particles, which are a good conductor of electricity.",
@@ -4776,7 +4776,7 @@
         ]
     },
     {
-        "questionid": "alpaca-93",
+        "question_id": 93,
         "question": "if I need pain relief, how do I know whether to choose between aspirin, Tylenol, Advil, etc.? They are all labeled as pain relievers.",
         "answers": [
             "When it comes to pain relief, it is important to select the medication that is best suited for the type of pain you are experiencing.",
@@ -4820,7 +4820,7 @@
         ]
     },
     {
-        "questionid": "alpaca-94",
+        "question_id": 94,
         "question": "How would a bank make money if I deposited 1 billion dollars into my savings, considering the interest would be millions?",
         "answers": [
             "The bank would make money from the interest on the 1 billion dollars.",
@@ -4846,7 +4846,7 @@
         ]
     },
     {
-        "questionid": "alpaca-95",
+        "question_id": 95,
         "question": "How does evolution occur and how did the first living organisms come about",
         "answers": [
             "Evolution is the process by which populations of organisms change over time in response to their environment and genetic factors.",
@@ -4890,7 +4890,7 @@
         ]
     },
     {
-        "questionid": "alpaca-96",
+        "question_id": 96,
         "question": "If I am not supposed to clean my ears deep with a q-tip, why does it feel so good and sometimes clear my sinuses?",
         "answers": [
             "Cleaning your ears with a Q-tip can feel good because it temporarily relieves the feeling of having something stuck in your ears.",
@@ -4934,7 +4934,7 @@
         ]
     },
     {
-        "questionid": "alpaca-97",
+        "question_id": 97,
         "question": "Why are so many people choosing longboards over traditional skateboards these days? Are they easier to ride? What is the benefit?",
         "answers": [
             "Yes, longboards are significantly easier to ride than traditional skateboards.",
@@ -4978,7 +4978,7 @@
         ]
     },
     {
-        "questionid": "alpaca-98",
+        "question_id": 98,
         "question": "If most of what we taste is determined by smell, why do some things that smell good (cologne, perfume, soap, etc.) taste bad? (re-post/ rephrased from /r/explainlikeimfive)",
         "answers": [
             "That's because taste and smell are two different senses.",
@@ -5022,7 +5022,7 @@
         ]
     },
     {
-        "questionid": "alpaca-99",
+        "question_id": 99,
         "question": "Why are items always priced ending in \".99\" instead of \".00\"?",
         "answers": [
             "This is a pricing strategy used by many businesses to indicate a lower price point and to entice customers to purchase the item.",
