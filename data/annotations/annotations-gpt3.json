@@ -1,6 +1,6 @@
 [
     {
-        "question_id": 0,
+        "question_id": 152,
         "question": "Why is a runners heart rate lower than a non runner",
         "answers": [
             "   A runner's heart rate is generally lower than that of a non-runner for several reasons.",
@@ -89,7 +89,7 @@
         ]
     },
     {
-        "question_id": 1,
+        "question_id": 167,
         "question": "Why are there only circular planets? Why can't there be square or rectangular ones?",
         "answers": [
             " While planets may look circular when viewed from a distance, they are not actually perfectly round.",
@@ -258,7 +258,7 @@
         ]
     },
     {
-        "question_id": 3,
+        "question_id": 164,
         "question": "Why do french fries taste awful if reheated, but something like pizza is comparable whether fresh or reheated?",
         "answers": [
             " French fries are a classic snack that many people enjoy, but they can be tricky to get right when reheated.",
@@ -365,7 +365,7 @@
         ]
     },
     {
-        "question_id": 4,
+        "question_id": 52,
         "question": "Why do some liquids form skins on them but others don't?",
         "answers": [
             " Liquids form skins on them because of a process known as evaporation.",
@@ -454,7 +454,7 @@
         ]
     },
     {
-        "question_id": 5,
+        "question_id": 35,
         "question": "what causes the center of ice to whiten?",
         "answers": [
             " The center of ice can whiten due to a few different processes.",
@@ -543,7 +543,7 @@
         ]
     },
     {
-        "question_id": 6,
+        "question_id": 55,
         "question": "2pac has like 5 albumns since his death. whats going on, who has the rights? seems to be with a million different artists",
         "answers": [
             " The answer to your question is, unfortunately, quite complicated.",
@@ -668,7 +668,7 @@
         ]
     },
     {
-        "question_id": 7,
+        "question_id": 215,
         "question": "If I were to create a company, have $1M debt, go bankrupt, how would the company that I owe get its money ? do I have to pay ?",
         "answers": [
             " If you create a company, take on $1M of debt, and then go bankrupt, the company that you owe money to will have to seek recourse through the court system in order to recover their funds.",
@@ -739,7 +739,7 @@
         ]
     },
     {
-        "question_id": 8,
+        "question_id": 259,
         "question": "Why is photographer Terry Richardson so famous and prevalent.",
         "answers": [
             " Terry Richardson is an iconic photographer who is widely renowned for his edgy, provocative, and often controversial photography style.",
@@ -846,7 +846,7 @@
         ]
     },
     {
-        "question_id": 9,
+        "question_id": 120,
         "question": "Why do we use air filled tires and not tires made of solid rubber, that don't run the risk of going flat?",
         "answers": [
             " Using air filled tires instead of tires made of solid rubber has several advantages.",
@@ -944,7 +944,7 @@
         ]
     },
     {
-        "question_id": 10,
+        "question_id": 119,
         "question": "Why do VGA/DVI cables have to be screwed in, but HDMI and other cables don't?",
         "answers": [
             " VGA/DVI cables need to be screwed in to ensure a tight connection between the cable and the port.",
@@ -997,7 +997,7 @@
         ]
     },
     {
-        "question_id": 11,
+        "question_id": 156,
         "question": "Why do different European languages have such varying names for Germany?",
         "answers": [
             " The answer to this question can be traced back to the early history of the German language, when it was still a collection of related dialects spoken across the region.",
@@ -1113,7 +1113,7 @@
         ]
     },
     {
-        "question_id": 12,
+        "question_id": 49,
         "question": "Why does a cold plastic bottle of water sweat?",
         "answers": [
             " A cold plastic bottle of water sweats because of a process called condensation.",
@@ -1175,7 +1175,7 @@
         ]
     },
     {
-        "question_id": 13,
+        "question_id": 208,
         "question": "How can someone put me in to jail if i am not guilty?",
         "answers": [
             " It is possible for someone to put you in jail if you are not guilty, although it is not common.",
@@ -1318,7 +1318,7 @@
         ]
     },
     {
-        "question_id": 14,
+        "question_id": 117,
         "question": "Why oil and gas rigs may cause earthquake and falls?",
         "answers": [
             " Oil and gas rigs can cause earthquakes and falls due to the drilling process.",
@@ -1371,7 +1371,7 @@
         ]
     },
     {
-        "question_id": 15,
+        "question_id": 87,
         "question": "How is negative temperature possible in Kelvin scale?",
         "answers": [
             " Negative temperatures are possible in the Kelvin scale because it is an absolute temperature scale, meaning it starts at absolute zero, which is the coldest temperature possible and has no negative values.",
@@ -1496,7 +1496,7 @@
         ]
     },
     {
-        "question_id": 16,
+        "question_id": 124,
         "question": "Why do I sweat more after getting out of the shower?",
         "answers": [
             " Sweating after getting out of the shower is a normal and natural occurrence for many people.",
@@ -1585,7 +1585,7 @@
         ]
     },
     {
-        "question_id": 17,
+        "question_id": 199,
         "question": "Why am I unstable on my bike when it's stationary but not when it's moving?",
         "answers": [
             " The main reason why you may feel unstable when your bike is stationary is because your body is used to the motion of pedaling while riding.",
@@ -1656,7 +1656,7 @@
         ]
     },
     {
-        "question_id": 18,
+        "question_id": 209,
         "question": "Scientifically speaking , how likely is it that our existence is extremely small?",
         "answers": [
             " Scientifically speaking, it is difficult to make a definitive statement about the likelihood that our existence is extremely small.",
@@ -1790,7 +1790,7 @@
         ]
     },
     {
-        "question_id": 19,
+        "question_id": 33,
         "question": "Why do fish that live around coral reefs appear to be more colorful than fish that don't live around coral reefs?",
         "answers": [
             " Fish that live around coral reefs appear to be more colorful than those that don\u2019t due to a phenomenon known as \u201cCoral Reef Effect\u201d.",
@@ -1906,7 +1906,7 @@
         ]
     },
     {
-        "question_id": 20,
+        "question_id": 44,
         "question": "Birds in the Northern Hemisphere migrate south for the winter. Are there birds from the Southern Hemisphere that migrate north for the summer? What species are they?",
         "answers": [
             " Yes, there are some species of birds from the Southern Hemisphere that migrate north for the summer.",
@@ -2040,7 +2040,7 @@
         ]
     },
     {
-        "question_id": 21,
+        "question_id": 16,
         "question": "Why does it feel like less effort to watch 3 - hour long TV episodes back to back than a film?",
         "answers": [
             " Watching TV episodes back to back can often feel like less effort than watching a film for a few reasons.",
@@ -2111,7 +2111,7 @@
         ]
     },
     {
-        "question_id": 22,
+        "question_id": 262,
         "question": "What parts I would need to replace my Cable Box in the UK if I build a HTPC?",
         "answers": [
             " If you are looking to build a HTPC in the UK, then you will need to replace your Cable Box with a suitable TV tuner card.",
@@ -2209,7 +2209,7 @@
         ]
     },
     {
-        "question_id": 23,
+        "question_id": 160,
         "question": "Why does the President of the United States need to be born in the United States to be eligible to run?",
         "answers": [
             " The President of the United States is the head of the executive branch of the federal government and so it is important that the person who occupies this role is a natural-born citizen of the United States.",
@@ -2280,7 +2280,7 @@
         ]
     },
     {
-        "question_id": 24,
+        "question_id": 79,
         "question": "Why do some planets form rings while others form moons?",
         "answers": [
             " The formation of rings and moons around planets is a complex process that is still being studied and understood by scientists.",
@@ -2396,7 +2396,7 @@
         ]
     },
     {
-        "question_id": 25,
+        "question_id": 7,
         "question": "How do contact lens stay on your iris? What stops them from moving all over your eye?",
         "answers": [
             " Contact lenses are held in place on your iris using a combination of suction, lubrication, and moisture.",
@@ -2458,7 +2458,7 @@
         ]
     },
     {
-        "question_id": 26,
+        "question_id": 82,
         "question": "Why do solar systems look mostly 'flat'?",
         "answers": [
             " Solar systems tend to look mostly flat because of the gravitational pull of all the objects within them.",
@@ -2520,7 +2520,7 @@
         ]
     },
     {
-        "question_id": 27,
+        "question_id": 38,
         "question": "If you put glasses from someone with dioptry, do you see like they see without them?",
         "answers": [
             " No, if you put glasses from someone with dioptry, you will not see like they see without them.",
@@ -2573,7 +2573,7 @@
         ]
     },
     {
-        "question_id": 28,
+        "question_id": 68,
         "question": "FB posts baiting people to \"share if you see x\" or \"Little Timmy has Cancer and will live with 1M Likes\" or the easy puzzles designed to stroke your ego and post the answer. Does anyone make money from this?",
         "answers": [
             " Yes, people can make money from posts like these.",
@@ -2635,7 +2635,7 @@
         ]
     },
     {
-        "question_id": 29,
+        "question_id": 170,
         "question": "Why is automatic transmission fluid so unique? Does the viscosity of ATF change the more it moves?",
         "answers": [
             " Automatic transmission fluid (ATF) is a unique type of lubricant specifically designed to help maintain the proper functioning of a vehicle's automatic transmission system.",
@@ -2706,7 +2706,7 @@
         ]
     },
     {
-        "question_id": 30,
+        "question_id": 78,
         "question": "How has technological growth increased so exponentially in the last 50 years?",
         "answers": [
             " Over the last 50 years, technological growth has increased exponentially for a number of reasons.",
@@ -2822,7 +2822,7 @@
         ]
     },
     {
-        "question_id": 31,
+        "question_id": 104,
         "question": "what is 'Magnetic moment'",
         "answers": [
             " Magnetic moment is a measure of the strength and direction of a magnet\u2019s magnetic field.",
@@ -2983,7 +2983,7 @@
         ]
     },
     {
-        "question_id": 32,
+        "question_id": 113,
         "question": "What is the difference between sigma bonds and pi bonds?",
         "answers": [
             " Sigma bonds and pi bonds are different types of covalent bonds that form between two atoms.",
@@ -3063,7 +3063,7 @@
         ]
     },
     {
-        "question_id": 33,
+        "question_id": 253,
         "question": "Do people who hear for the first time, after something like getting hearing implants, know what the other people are saying?",
         "answers": [
             " Yes, people who hear for the first time after getting hearing implants usually know what the other people are saying.",
@@ -3161,7 +3161,7 @@
         ]
     },
     {
-        "question_id": 34,
+        "question_id": 45,
         "question": "What is austerity?",
         "answers": [
             " Austerity is an economic policy that focuses on reducing government spending and increasing taxes in order to reduce deficits and stabilize the economy.",
@@ -3232,7 +3232,7 @@
         ]
     },
     {
-        "question_id": 35,
+        "question_id": 233,
         "question": "Why do we say \"pair of pants/jeans/shorts\" when talking about one item of clothing when they are clearly not multiples?",
         "answers": [
             " We use the phrase \u201cpair of pants/jeans/shorts\u201d when talking about one item of clothing because it is a remnant of the former use of the word \u201cpair\u201d to mean two of the same item.",
@@ -3294,7 +3294,7 @@
         ]
     },
     {
-        "question_id": 36,
+        "question_id": 144,
         "question": "Why do undocumented immigrants returning to Mexico drive down wages there, but proponents of relaxed immigration say they don't do the same here?",
         "answers": [
             " There is a great deal of disagreement among economists, political scientists, and other experts on this question.",
@@ -3401,7 +3401,7 @@
         ]
     },
     {
-        "question_id": 37,
+        "question_id": 58,
         "question": "Explain: The security implications Microsoft's \"golden key\" backdoor, present in all copies of Windows since Windows 8.",
         "answers": [
             " Microsoft's \"golden key\" backdoor has significant security implications, especially for Windows 8 and later versions.",
@@ -3508,7 +3508,7 @@
         ]
     },
     {
-        "question_id": 38,
+        "question_id": 19,
         "question": "Why does it seem like when I watch something the second time around, it goes by faster than the first time I watched it?",
         "answers": [
             " It's a common phenomenon that when you watch something a second time, it seems to go by faster than the first time.",
@@ -3633,7 +3633,7 @@
         ]
     },
     {
-        "question_id": 39,
+        "question_id": 261,
         "question": "How can a vehicle's air filter effect its gas mileage?",
         "answers": [
             " A vehicle's air filter is an important part of its overall performance, and it can have a significant impact on its gas mileage.",
@@ -3695,7 +3695,7 @@
         ]
     },
     {
-        "question_id": 40,
+        "question_id": 3,
         "question": "- Why does Eminem give so much praise to Dr Dre? He talks about him like a father in his music.",
         "answers": [
             " Eminem has consistently given Dr Dre a lot of praise in his music, including referring to him as a father figure.",
@@ -3784,7 +3784,7 @@
         ]
     },
     {
-        "question_id": 41,
+        "question_id": 21,
         "question": "Why do benches empty when there is a fight in baseball?",
         "answers": [
             " Benches emptying during a fight in baseball is a common occurrence and is a reflection of the competitive nature of the sport.",
@@ -3864,7 +3864,7 @@
         ]
     },
     {
-        "question_id": 42,
+        "question_id": 187,
         "question": "Why is eating burnt food bad for you?",
         "answers": [
             " Eating burnt food is not recommended as it can be bad for your health.",
@@ -3980,7 +3980,7 @@
         ]
     },
     {
-        "question_id": 43,
+        "question_id": 153,
         "question": "How did people manipulate photographs before computers?",
         "answers": [
             " Before computers, people manipulated photographs through a variety of methods.",
@@ -4114,7 +4114,7 @@
         ]
     },
     {
-        "question_id": 44,
+        "question_id": 221,
         "question": "how is a heavy duty clog cleaner able to work on a significant amount of standing water?",
         "answers": [
             " A heavy duty clog cleaner is able to work on a significant amount of standing water due to its powerful and efficient design.",
@@ -4176,7 +4176,7 @@
         ]
     },
     {
-        "question_id": 45,
+        "question_id": 56,
         "question": "Why does lying down reduce my urge to puke when I feel like puking?",
         "answers": [
             " Lying down when feeling nauseous can help to reduce the urge to vomit because it helps to decrease the amount of pressure in the abdominal area.",
@@ -4247,7 +4247,7 @@
         ]
     },
     {
-        "question_id": 46,
+        "question_id": 254,
         "question": "Why do people in all old voice recordings have the same \"old timey\" accents?",
         "answers": [
             " The accents we hear in old voice recordings are commonly referred to as \"old timey accents\" and are the result of cultural influences and changes in language over time.",
@@ -4354,7 +4354,7 @@
         ]
     },
     {
-        "question_id": 47,
+        "question_id": 109,
         "question": "Why will a file load to 99% with no problem then hang for what seems like forever?",
         "answers": [
             "  There are a few potential reasons why a file may seem to hang at 99% loading.",
@@ -4479,7 +4479,7 @@
         ]
     },
     {
-        "question_id": 48,
+        "question_id": 265,
         "question": "When I watch cooking shows it never shows the chefs washing their hands or cleaning anything, how often do chefs wash their hands? What about knives, utensils, etc?",
         "answers": [
             " Chefs are expected to maintain a high standard of hygiene and safety in the kitchen, which means washing their hands often.",
@@ -4568,7 +4568,7 @@
         ]
     },
     {
-        "question_id": 49,
+        "question_id": 20,
         "question": "The Lean Six Sigma Methodology",
         "answers": [
             " Lean Six Sigma is an effective methodology for businesses to improve their processes and increase the efficiency of their operations.",
@@ -4702,7 +4702,7 @@
         ]
     },
     {
-        "question_id": 50,
+        "question_id": 230,
         "question": "What causes us to tear up when we cut onions? Is there a way to prevent this?",
         "answers": [
             " When we cut onions, tear-inducing chemicals called syn-propanethial-S-oxide are released, which reacts with the water in our eyes to form a mild acid.",
@@ -4764,7 +4764,7 @@
         ]
     },
     {
-        "question_id": 51,
+        "question_id": 22,
         "question": "Why do police officers have bullet proof vests for covering vital organs when often times they leave their heads unprotected?",
         "answers": [
             " Police officers wear bullet proof vests because they are designed to cover the most vital organs in the body, such as the heart and lungs.",
@@ -4898,7 +4898,7 @@
         ]
     },
     {
-        "question_id": 52,
+        "question_id": 252,
         "question": "Explain: Having a \"stone\" in your saliva gland.",
         "answers": [
             " Having a stone in your saliva gland, also known as a salivary calculus, is a common condition that can cause pain and discomfort.",
@@ -5023,7 +5023,7 @@
         ]
     },
     {
-        "question_id": 53,
+        "question_id": 263,
         "question": "Why does smoking tobacco cause cancer, but smoking marijuana does not?",
         "answers": [
             " Smoking tobacco is known to cause cancer because of the many harmful chemicals found in cigarettes.",
@@ -5121,7 +5121,7 @@
         ]
     },
     {
-        "question_id": 54,
+        "question_id": 36,
         "question": "How do contact lenses center themselves and stay centered",
         "answers": [
             " Contact lenses are designed to center themselves on the eye and stay in place throughout the day.",
@@ -5192,7 +5192,7 @@
         ]
     },
     {
-        "question_id": 55,
+        "question_id": 63,
         "question": "PayPal, how it works, if it's trustworthy/worthwhile and should I get it?",
         "answers": [
             " PayPal is an online payment processing platform that can be used to make and receive payments.",
@@ -5299,7 +5299,7 @@
         ]
     },
     {
-        "question_id": 56,
+        "question_id": 218,
         "question": "How can water boil below 100\u00b0C?",
         "answers": [
             " Water can boil below 100\u00b0C under certain conditions.",
@@ -5469,7 +5469,7 @@
         ]
     },
     {
-        "question_id": 57,
+        "question_id": 157,
         "question": "How can food and drinks that are advertised as 0 calories still be metabolized and used as energy by your body?",
         "answers": [
             " Although foods and drinks that are advertised as having 0 calories still contain trace amounts of calories, it is not enough to be significant to the body.",
@@ -5549,7 +5549,7 @@
         ]
     },
     {
-        "question_id": 58,
+        "question_id": 8,
         "question": "All these stories about the \"fake snow\" being passed around within the past week or so... what is REALLY going on here?",
         "answers": [
             " It's been quite a strange phenomenon these past couple of weeks.",
@@ -5629,7 +5629,7 @@
         ]
     },
     {
-        "question_id": 59,
+        "question_id": 198,
         "question": "why does the file size of digital photos vary when the pixel count doesn't change?",
         "answers": [
             " The file size of digital photos varies depending on several factors, such as the type of file format used, the level of compression, and the quality of the image.",
@@ -5700,7 +5700,7 @@
         ]
     },
     {
-        "question_id": 60,
+        "question_id": 30,
         "question": "Why do so many perfume commercials make no sense or are almost entirely unrelated to perfume?",
         "answers": [
             " Perfume commercials are often designed to be memorable and eye-catching, rather than make sense or be directly related to the product they are advertising.",
@@ -5762,7 +5762,7 @@
         ]
     },
     {
-        "question_id": 61,
+        "question_id": 134,
         "question": "after World War II, what changes did Germany make to it's own political system to ensure a dictator figure could never take power again?",
         "answers": [
             " After World War II, Germany implemented a number of measures to ensure that a dictator figure could never take power again.",
@@ -5905,7 +5905,7 @@
         ]
     },
     {
-        "question_id": 62,
+        "question_id": 158,
         "question": "Why is it harder to fall asleep in noisy environments?",
         "answers": [
             " It can be harder to fall asleep in noisy environments because noise can be a distraction that can prevent us from entering a restful sleep state.",
@@ -5967,7 +5967,7 @@
         ]
     },
     {
-        "question_id": 63,
+        "question_id": 94,
         "question": "How do animals deal with getting prickles/thorns/splinters etc in their feet?",
         "answers": [
             " Animals generally have a natural instinct for dealing with prickles, thorns, and splinters in their feet.",
@@ -6065,7 +6065,7 @@
         ]
     },
     {
-        "question_id": 64,
+        "question_id": 147,
         "question": "How come some people have lovely handwriting and others don't?",
         "answers": [
             " There are many factors that contribute to why some people have lovely handwriting and others don\u2019t.",
@@ -6163,7 +6163,7 @@
         ]
     },
     {
-        "question_id": 65,
+        "question_id": 202,
         "question": "How were continents, countries and coastlines mapped out prior to the invention of satellites?",
         "answers": [
             " Before the invention of satellites, mapping out continents, countries, and coastlines was done mostly through the use of aerial photography, nautical maps, and surveys.",
@@ -6270,7 +6270,7 @@
         ]
     },
     {
-        "question_id": 66,
+        "question_id": 239,
         "question": "Seismologists: How do you determine whether an earthquake was naturally occurring or if it was human induced?",
         "answers": [
             " Seismologists use a variety of methods to determine whether an earthquake was naturally occurring or human induced.",
@@ -6341,7 +6341,7 @@
         ]
     },
     {
-        "question_id": 67,
+        "question_id": 236,
         "question": "Why do we prefer cold pillows to warm pillows?",
         "answers": [
             " Cold pillows are often preferred over warm pillows due to a number of reasons.",
@@ -6421,7 +6421,7 @@
         ]
     },
     {
-        "question_id": 68,
+        "question_id": 219,
         "question": "How would the EU effectively retaliate against anything, should they be against what the United States has implemented? If things took a turn for the worse on the Paris Agreement, what would a hard stance against the US look like?",
         "answers": [
             " If the European Union (EU) were to take a hard stance against the United States for any particular policies it has implemented, the EU could take a variety of different actions.",
@@ -6546,7 +6546,7 @@
         ]
     },
     {
-        "question_id": 69,
+        "question_id": 204,
         "question": "How does CRISPR work in a practical sense?",
         "answers": [
             " CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a gene editing technology that has revolutionized the field of genetics.",
@@ -6715,7 +6715,7 @@
         ]
     },
     {
-        "question_id": 71,
+        "question_id": 23,
         "question": "Why can I eat mold on a cheese, but not on any other foods?",
         "answers": [
             " Eating mold on certain cheeses is usually safe because the cheeses have been aged for a long period of time, which gives the mold time to develop and form a protective layer.",
@@ -6795,7 +6795,7 @@
         ]
     },
     {
-        "question_id": 72,
+        "question_id": 75,
         "question": "Why is Allah translated as god in subtitles yet is basically just referred to as Allah outside of the translation",
         "answers": [
             " The use of \u201cAllah\u201d as a translation for \u201cGod\u201d in subtitles is a reflection of the cultural context of the language being translated.",
@@ -6884,7 +6884,7 @@
         ]
     },
     {
-        "question_id": 73,
+        "question_id": 237,
         "question": "Shutter Speed and Aperture.",
         "answers": [
             " Shutter speed and aperture are two of the most important components of photography, and understanding how they work together is essential for taking great photos.",
@@ -7036,7 +7036,7 @@
         ]
     },
     {
-        "question_id": 74,
+        "question_id": 5,
         "question": "Why does reddit give up loading pages without even trying?",
         "answers": [
             " Reddit can give up loading pages without even trying for a variety of reasons.",
@@ -7098,7 +7098,7 @@
         ]
     },
     {
-        "question_id": 75,
+        "question_id": 258,
         "question": "What exactly is going on with my computer when it crashes?",
         "answers": [
             " When your computer crashes, it means that it has encountered a problem that it cannot handle.",
@@ -7196,7 +7196,7 @@
         ]
     },
     {
-        "question_id": 76,
+        "question_id": 90,
         "question": "How does applying a foreign substance to a baseball (e.g. pine tar, vaseline, crisco) give the pitcher a competitive advantage over the hitter? Why is it worth the risk?",
         "answers": [
             " Applying a foreign substance to a baseball can give a pitcher a competitive advantage over the hitter by making the ball more resistant to the forces of air resistance, gravity and spin.",
@@ -7285,7 +7285,7 @@
         ]
     },
     {
-        "question_id": 77,
+        "question_id": 250,
         "question": "Dictionary tells me agnostic means \"I think it can't be proven\" but commonly in North America people seem to use it to mean \"kinda don't believe in God\". Why is that?",
         "answers": [
             " The use of the term agnostic to mean \u201ckinda don\u2019t believe in God\u201d is likely derived from its original definition, which was coined by Thomas Henry Huxley in 1869.",
@@ -7356,7 +7356,7 @@
         ]
     },
     {
-        "question_id": 78,
+        "question_id": 200,
         "question": "Why is it that a fully buffered YouTube video will buffer again from where you click on the progress bar when you skip a few seconds ahead?",
         "answers": [
             " YouTube videos are fully buffered to ensure that they stream smoothly and without interruption.",
@@ -7418,7 +7418,7 @@
         ]
     },
     {
-        "question_id": 79,
+        "question_id": 76,
         "question": "What does \"bit\" mean, in reference to Encryption? i.e 4096-bit encrypted",
         "answers": [
             " A bit is the smallest unit of information that can be stored or manipulated in computing and digital communications.",
@@ -7480,7 +7480,7 @@
         ]
     },
     {
-        "question_id": 80,
+        "question_id": 238,
         "question": "Why sp@m Ema1ls are typed l1ke this?",
         "answers": [
             " Sp@m emails are often typed in a unique way to prevent them from being filtered out by automated spam detection systems.",
@@ -7524,7 +7524,7 @@
         ]
     },
     {
-        "question_id": 81,
+        "question_id": 67,
         "question": "What would happen to my body if I were trapped somewhere with a reliable water supply but no food",
         "answers": [
             " If you were trapped somewhere with a reliable water supply but no food, your body would eventually begin to suffer from malnutrition and starvation.",
@@ -7604,7 +7604,7 @@
         ]
     },
     {
-        "question_id": 82,
+        "question_id": 225,
         "question": "Why does my pee smell like asparagus when I eat asparagus but it never smells like anything cool, like lobster tail or ice cream sundae, when I eat something cool?",
         "answers": [
             " The reason your pee smells like asparagus when you eat asparagus but never anything cool like a lobster tail or an ice cream sundae is due to the unique compounds found in asparagus.",
@@ -7666,7 +7666,7 @@
         ]
     },
     {
-        "question_id": 83,
+        "question_id": 0,
         "question": "Why did we decide that certain words were \"bad\" and shouldn't be used in social settings?",
         "answers": [
             " The decision to deem certain words as \"bad\" or inappropriate for use in social settings is based on the belief that certain words can be offensive, hurtful, or disrespectful to the people around us.",
@@ -7719,7 +7719,7 @@
         ]
     },
     {
-        "question_id": 84,
+        "question_id": 29,
         "question": "why is alcohol the only drink people binge on?",
         "answers": [
             " Alcohol is the only drink people binge on because of its unique properties.",
@@ -7799,7 +7799,7 @@
         ]
     },
     {
-        "question_id": 85,
+        "question_id": 107,
         "question": "what do you do if you get pulled over?",
         "answers": [
             " If you get pulled over, the first thing you should do is remain calm and be polite with the officer.",
@@ -7870,7 +7870,7 @@
         ]
     },
     {
-        "question_id": 86,
+        "question_id": 132,
         "question": "Why do dogs shake their legs when you scratch a certain part of them?",
         "answers": [
             " Dogs shake their legs when they are being scratched because they are simply enjoying the sensation.",
@@ -7932,7 +7932,7 @@
         ]
     },
     {
-        "question_id": 87,
+        "question_id": 257,
         "question": "Should the average person be concerned about the spread of Ebola as of right now?",
         "answers": [
             " At this time, the average person should not be overly concerned about the spread of Ebola.",
@@ -8030,7 +8030,7 @@
         ]
     },
     {
-        "question_id": 88,
+        "question_id": 32,
         "question": "Will we ever know what happens when we die?",
         "answers": [
             " It is impossible to definitively answer this question since we do not know what happens after death.",
@@ -8128,7 +8128,7 @@
         ]
     },
     {
-        "question_id": 89,
+        "question_id": 57,
         "question": "Why do some people dream deeply and vividly while others rarely remember theirs?",
         "answers": [
             " There are many different factors that can influence why some people dream deeply and vividly while others rarely remember theirs.",
@@ -8280,7 +8280,7 @@
         ]
     },
     {
-        "question_id": 90,
+        "question_id": 240,
         "question": "How do we synchronize our pace when walking next to someone?",
         "answers": [
             " Synchronizing your pace with someone when walking can be a challenging task, but it is possible if you pay attention to the other person\u2019s pace and body movements.",
@@ -8378,7 +8378,7 @@
         ]
     },
     {
-        "question_id": 91,
+        "question_id": 115,
         "question": "How does money go from my pocket, through the stock market, and to support the business I've bought stock from?",
         "answers": [
             " When you buy stock in a business, your money goes to the stock market, which is essentially a marketplace for stocks and other securities.",
@@ -8449,7 +8449,7 @@
         ]
     },
     {
-        "question_id": 92,
+        "question_id": 148,
         "question": "Why doesn't it thunder during snow storms?",
         "answers": [
             " Thunderstorms typically occur during the summer months when warm, moist air rises and then condenses, creating the perfect environment for lightning and thunder.",
@@ -8529,7 +8529,7 @@
         ]
     },
     {
-        "question_id": 93,
+        "question_id": 166,
         "question": "if I need pain relief, how do I know whether to choose between aspirin, Tylenol, Advil, etc.? They are all labeled as pain relievers.",
         "answers": [
             "   When it comes to choosing between aspirin, Tylenol, Advil, and other over-the-counter pain relievers, it can be difficult to know which one is right for you.",
@@ -8681,7 +8681,7 @@
         ]
     },
     {
-        "question_id": 94,
+        "question_id": 214,
         "question": "How would a bank make money if I deposited 1 billion dollars into my savings, considering the interest would be millions?",
         "answers": [
             " Banks make money by investing the deposits made by their customers.",
@@ -8797,7 +8797,7 @@
         ]
     },
     {
-        "question_id": 95,
+        "question_id": 130,
         "question": "How does evolution occur and how did the first living organisms come about",
         "answers": [
             " Evolution is the process in which species change over time through genetic mutations and natural selection.",
@@ -8931,7 +8931,7 @@
         ]
     },
     {
-        "question_id": 96,
+        "question_id": 6,
         "question": "If I am not supposed to clean my ears deep with a q-tip, why does it feel so good and sometimes clear my sinuses?",
         "answers": [
             " Using a q-tip to clean the ears can be very tempting, especially because it can make you feel like you\u2019re getting a deeper clean.",
@@ -9038,7 +9038,7 @@
         ]
     },
     {
-        "question_id": 97,
+        "question_id": 173,
         "question": "Why are so many people choosing longboards over traditional skateboards these days? Are they easier to ride? What is the benefit?",
         "answers": [
             " Longboards are becoming increasingly popular among skateboarders these days due to the fact that they offer a smoother, more comfortable ride than traditional skateboards.",
@@ -9127,7 +9127,7 @@
         ]
     },
     {
-        "question_id": 98,
+        "question_id": 103,
         "question": "If most of what we taste is determined by smell, why do some things that smell good (cologne, perfume, soap, etc.) taste bad? (re-post/ rephrased from /r/explainlikeimfive)",
         "answers": [
             " The sense of smell and taste are closely related and interact with each other.",
@@ -9207,7 +9207,7 @@
         ]
     },
     {
-        "question_id": 99,
+        "question_id": 60,
         "question": "Why are items always priced ending in \".99\" instead of \".00\"?",
         "answers": [
             " The common practice of pricing items with a price ending in \".99\" is known as \"charm pricing\" or \"odd pricing\".",
