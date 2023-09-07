@@ -1,4 +1,4 @@
-Generate a long answer to the following question.
+Generate a long answer to the following question. 
 
  Question: {QUESTION}
 
