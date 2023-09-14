@@ -357,7 +357,7 @@
             {
                 "labels": [
                     "supported",
-                    "not_supported",
+                    "supported",
                     "supported"
                 ],
                 "answer": "Furthermore, even if a liquid does contain proteins and fats, the temperature at which it is heated must be high enough to cause the proteins and fats to coagulate, otherwise a skin will not form."
@@ -489,7 +489,7 @@
             {
                 "labels": [
                     "partially",
-                    "not_supported",
+                    "partially",
                     "partially"
                 ],
                 "answer": "There have been a number of other posthumous releases since Tupac's death, but they are not officially sanctioned by the estate."
@@ -531,7 +531,7 @@
             {
                 "labels": [
                     "partially",
-                    "supported",
+                    "partially",
                     "partially"
                 ],
                 "answer": "If the company has $1M debt, the secured creditors will be paid first."
@@ -651,7 +651,7 @@
             {
                 "labels": [
                     "supported",
-                    "not_supported",
+                    "supported",
                     "supported"
                 ],
                 "answer": "Secured creditors will be paid first, followed by unsecured creditors, and then shareholders."
@@ -659,7 +659,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "You may have to pay some of the debt depending on how much money is left over after the creditors have been paid."
@@ -1966,7 +1966,7 @@
             {
                 "labels": [
                     "partially",
-                    "supported",
+                    "partially",
                     "partially"
                 ],
                 "answer": "When you put on someone else's glasses, the optical power of the lens is different than the diopter strength that is suited to your vision, which causes an out-of-focus image to be presented to your retina."
@@ -1974,7 +1974,7 @@
             {
                 "labels": [
                     "supported",
-                    "not_supported",
+                    "supported",
                     "supported"
                 ],
                 "answer": "This is much like a distorted image in an amusement park mirror."
@@ -2148,7 +2148,7 @@
             {
                 "labels": [
                     "partially",
-                    "supported",
+                    "partially",
                     "partially"
                 ],
                 "answer": " Technological growth has increased exponentially in the last 50 years due to the law of accelerating returns and the positive feedback loop of improvements that happen when each new generation of technology builds on the advances of its predecessors."
@@ -2164,7 +2164,7 @@
             {
                 "labels": [
                     "partially",
-                    "supported",
+                    "partially",
                     "partially"
                 ],
                 "answer": "In the past 50 years, the pace of technological progress has increased dramatically due to improvements in information technology, which have increased the speed and capacity of data storage and communication."
@@ -3161,7 +3161,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "This is because lying down helps to keep stomach acids down, which can relieve symptoms of gastroesophageal reflux disease (GERD)."
@@ -3338,7 +3338,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "In general, chefs should be washing their hands before and after handling any food, and after touching any surface that may have come into contact with food."
@@ -3919,7 +3919,7 @@
             {
                 "labels": [
                     "partially",
-                    "supported",
+                    "not_supported",
                     "supported"
                 ],
                 "answer": " Even though food and drinks advertised as 0 calories may not provide any energy when consumed, they can still be metabolized by your body and used as energy."
@@ -3975,7 +3975,7 @@
             {
                 "labels": [
                     "partially",
-                    "supported",
+                    "not_supported",
                     "supported"
                 ],
                 "answer": "Therefore, even though food and drinks advertised as 0 calories may not provide any energy when consumed, they can still be metabolized and used as energy by your body."

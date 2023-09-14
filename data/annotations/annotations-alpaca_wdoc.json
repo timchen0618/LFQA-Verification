@@ -197,9 +197,9 @@
             },
             {
                 "labels": [
-                    "partially",
-                    "partially",
-                    "supported"
+                    "supported",
+                    "not_supported",
+                    "partially"
                 ],
                 "answer": "Oil used to fry french fries also absorbs unwanted flavors and can become rancid over time."
             },
@@ -1727,9 +1727,9 @@
             },
             {
                 "labels": [
-                    "partially",
-                    "partially",
-                    "supported"
+                    "supported",
+                    "not_supported",
+                    "partially"
                 ],
                 "answer": "Additionally, the lenses may not fit correctly, meaning the image will be further distorted or even split into two separate images, which can cause dizziness, headaches or eye strain.</s>"
             }
@@ -3967,7 +3967,7 @@
                 "labels": [
                     "supported",
                     "supported",
-                    "not_supported"
+                    "supported"
                 ],
                 "answer": "Additionally, radiation monitoring and experiments at the site can provide additional evidence.</s>"
             }
