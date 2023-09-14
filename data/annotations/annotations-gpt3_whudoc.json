@@ -410,7 +410,7 @@
             },
             {
                 "labels": [
-                    "partially",
+                    "not_supported",
                     "partially",
                     "partially"
                 ],
@@ -2672,7 +2672,7 @@
             {
                 "labels": [
                     "partially",
-                    "partially",
+                    "supported",
                     "partially"
                 ],
                 "answer": "Although it was more common in the past, when players were often high on drugs, bench-clearing brawls still occur today as players take offense or retaliate against perceived injustices on the field."
@@ -3585,7 +3585,7 @@
             {
                 "labels": [
                     "partially",
-                    "partially",
+                    "supported",
                     "partially"
                 ],
                 "answer": "It is secure and allows for quick and easy payments, making it a great choice for both buyers and sellers."
@@ -4174,7 +4174,7 @@
                 "labels": [
                     "not_supported",
                     "partially",
-                    "partially"
+                    "not_supported"
                 ],
                 "answer": "In other cases, when an animal does get a splinter in its foot, the best course of action is to remove it as soon as possible."
             },

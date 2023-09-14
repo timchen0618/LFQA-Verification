@@ -160,7 +160,7 @@
             },
             {
                 "labels": [
-                    "partially",
+                    "not_supported",
                     "partially",
                     "partially"
                 ],
@@ -1853,9 +1853,9 @@
         "annotations": [
             {
                 "labels": [
-                    "partially",
-                    "partially",
-                    "not_supported"
+                    "not_supported",
+                    "not_supported",
+                    "partially"
                 ],
                 "answer": "Technologies such as computing, networking, and digital storage have improved exponentially over the past 50 years due to advancements in technology, innovation, and communication."
             },
@@ -2808,7 +2808,7 @@
             },
             {
                 "labels": [
-                    "partially",
+                    "not_supported",
                     "partially",
                     "not_supported"
                 ],
@@ -4092,7 +4092,7 @@
         "annotations": [
             {
                 "labels": [
-                    "partially",
+                    "supported",
                     "partially",
                     "partially"
                 ],
@@ -4791,7 +4791,7 @@
             {
                 "labels": [
                     "supported",
-                    "partially",
+                    "supported",
                     "partially"
                 ],
                 "answer": "After a few days of being deprived of food, the only remaining source of fuel would be the breakdown of muscles and organs."

@@ -1623,7 +1623,7 @@
             },
             {
                 "labels": [
-                    "partially",
+                    "not_supported",
                     "partially",
                     "not_supported"
                 ],
@@ -1813,7 +1813,7 @@
             {
                 "labels": [
                     "partially",
-                    "partially",
+                    "not_supported",
                     "partially"
                 ],
                 "answer": "Microsoft's \"golden key\" backdoor is a functionality present in all copies of Windows since Windows 8 that allows the company to access any device running the operating system in case of an emergency."
@@ -3609,9 +3609,9 @@
         "annotations": [
             {
                 "labels": [
-                    "partially",
-                    "partially",
-                    "not_supported"
+                    "not_supported",
+                    "not_supported",
+                    "partially"
                 ],
                 "answer": "The EU has a variety of tools at its disposal to respond to any US measures taken against the Paris Agreement."
             },
@@ -4037,7 +4037,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "partially",
+                    "not_supported",
                     "partially"
                 ],
                 "answer": "This is because many people view agnosticism as a more nuanced stance on religion and faith than the more straight-up atheism of many modern thinkers."
@@ -4117,7 +4117,7 @@
                 "labels": [
                     "not_supported",
                     "partially",
-                    "partially"
+                    "not_supported"
                 ],
                 "answer": "When it comes to encryption, 4096 bits is an extremely secure number, as it means that the data is encrypted with a key that is composed of 4096 bits instead of the standard 128 bits."
             },
@@ -4275,7 +4275,7 @@
                 "labels": [
                     "not_supported",
                     "partially",
-                    "partially"
+                    "not_supported"
                 ],
                 "answer": "Other foods that contain high amounts of asparagine, like seafood, also may cause a fishy odor in your urine.</s>"
             }
@@ -4458,7 +4458,7 @@
             },
             {
                 "labels": [
-                    "partially",
+                    "not_supported",
                     "partially",
                     "not_supported"
                 ],
@@ -4611,7 +4611,7 @@
             },
             {
                 "labels": [
-                    "partially",
+                    "not_supported",
                     "partially",
                     "not_supported"
                 ],

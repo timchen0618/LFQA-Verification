@@ -293,7 +293,7 @@
             {
                 "labels": [
                     "partially",
-                    "partially",
+                    "not_supported",
                     "partially"
                 ],
                 "answer": "French fries are usually made from potatoes that have been cut into thin strips, deep-fried in oil, and seasoned with salt."
@@ -357,7 +357,7 @@
             {
                 "labels": [
                     "partially",
-                    "partially",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "Overall, the differences in the components of french fries and pizza are the reason why french fries tend to taste awful when reheated, while pizza can still taste good after being reheated."
@@ -790,7 +790,7 @@
             {
                 "labels": [
                     "partially",
-                    "partially",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "Richardson's signature style is the combination of his unique eye for composition, his use of natural light, and his bold and often outrageous aesthetic."
@@ -1135,7 +1135,7 @@
             {
                 "labels": [
                     "partially",
-                    "partially",
+                    "not_supported",
                     "partially"
                 ],
                 "answer": "Condensation occurs when the air around the bottle is humid, and the temperature of the bottle drops below the air's dew point."
@@ -2316,7 +2316,7 @@
             {
                 "labels": [
                     "partially",
-                    "partially",
+                    "not_supported",
                     "partially"
                 ],
                 "answer": "Rings are typically made up of small particles such as dust, rock, or ice that are held in a stable orbit by the planet's gravitational pull."
@@ -2666,7 +2666,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "partially",
+                    "not_supported",
                     "partially"
                 ],
                 "answer": "ATF is a type of lubricant that consists of a combination of base oil and detergents, dispersants, additives, and viscosity modifiers."
@@ -3428,7 +3428,7 @@
             {
                 "labels": [
                     "partially",
-                    "partially",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "This backdoor essentially allows Microsoft to bypass the encryption protection on any Windows device, granting them access to the system."
@@ -3484,7 +3484,7 @@
             {
                 "labels": [
                     "partially",
-                    "partially",
+                    "not_supported",
                     "partially"
                 ],
                 "answer": "Ultimately, Microsoft's \"golden key\" backdoor presents a serious security risk for Windows 8 and later versions."
@@ -4073,7 +4073,7 @@
             },
             {
                 "labels": [
-                    "partially",
+                    "not_supported",
                     "partially",
                     "partially"
                 ],
@@ -4190,16 +4190,16 @@
         "annotations": [
             {
                 "labels": [
-                    "not_supported",
-                    "supported",
-                    "partially"
+                    "partially",
+                    "partially",
+                    "not_supported"
                 ],
                 "answer": " Lying down when feeling nauseous can help to reduce the urge to vomit because it helps to decrease the amount of pressure in the abdominal area."
             },
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "This pressure can be caused by movement or even just standing up, so lying down can be a way to reduce it."
@@ -4207,7 +4207,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "Lying down can also help to improve circulation, which can help to reduce the feeling of nausea."
@@ -4223,7 +4223,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "When lying down, the stomach contents are not forced up by gravity, which can help to reduce the feeling of nausea."
@@ -4231,7 +4231,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "In some cases, lying down can also help to reduce stress, which can help to make nausea more manageable."
@@ -4239,7 +4239,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "Finally, if the nausea is due to a virus or bacterial infection, lying down can help to reduce the symptoms and make it more bearable."
@@ -4496,7 +4496,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "partially",
+                    "not_supported",
                     "partially"
                 ],
                 "answer": " Chefs are expected to maintain a high standard of hygiene and safety in the kitchen, which means washing their hands often."
@@ -4505,7 +4505,7 @@
                 "labels": [
                     "not_supported",
                     "not_supported",
-                    "supported"
+                    "not_supported"
                 ],
                 "answer": "The exact frequency of washing hands will depend on the chef and the particular kitchen, but generally speaking, chefs should wash their hands before and after handling raw food, after touching their face, after using the restroom, and before and after handling different types of food."
             },
@@ -4521,7 +4521,7 @@
                 "labels": [
                     "not_supported",
                     "not_supported",
-                    "supported"
+                    "not_supported"
                 ],
                 "answer": "Utensils should be washed with hot, soapy water and then rinsed with a sanitizer to kill any bacteria."
             },
@@ -4529,7 +4529,7 @@
                 "labels": [
                     "supported",
                     "partially",
-                    "supported"
+                    "partially"
                 ],
                 "answer": "Knives and cutting boards should be thoroughly washed and sanitized after each use."
             },
@@ -4537,14 +4537,14 @@
                 "labels": [
                     "supported",
                     "not_supported",
-                    "supported"
+                    "not_supported"
                 ],
                 "answer": "It is also important to frequently clean and sanitize countertops, cutting boards, and other food preparation surfaces."
             },
             {
                 "labels": [
                     "partially",
-                    "partially",
+                    "supported",
                     "partially"
                 ],
                 "answer": "Additionally, it is important to regularly clean and sanitize the refrigerator, oven, and other kitchen appliances."
@@ -4552,7 +4552,7 @@
             {
                 "labels": [
                     "partially",
-                    "partially",
+                    "not_supported",
                     "partially"
                 ],
                 "answer": "Overall, chefs need to maintain a high level of hygiene and safety in the kitchen, which includes washing their hands often, sanitizing equipment between uses, and regularly cleaning and sanitizing food preparation surfaces and kitchen appliances."
@@ -4785,16 +4785,16 @@
         "annotations": [
             {
                 "labels": [
-                    "partially",
-                    "supported",
-                    "not_supported"
+                    "not_supported",
+                    "not_supported",
+                    "partially"
                 ],
                 "answer": " Police officers wear bullet proof vests because they are designed to cover the most vital organs in the body, such as the heart and lungs."
             },
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "Leaving the head unprotected is a necessary risk that officers take in order to keep themselves as agile and mobile as possible."
@@ -4810,7 +4810,7 @@
             {
                 "labels": [
                     "supported",
-                    "not_supported",
+                    "supported",
                     "supported"
                 ],
                 "answer": "It is important to note that the vests are not designed to stop all bullets, but are designed to reduce the chance of a fatal or disabling injury."
@@ -4826,7 +4826,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "Police officers also wear helmets while on duty, but this protection is not as effective as a bullet proof vest."
@@ -4834,7 +4834,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "Helmets are designed to protect the head from blunt force trauma, such as falling objects and blows to the head."
@@ -4842,7 +4842,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "They are not designed to stop bullets, so officers must still accept the risk of leaving their heads unprotected."
@@ -4850,7 +4850,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "In addition to the physical risks, there is also the psychological risk that officers must accept."
@@ -4873,16 +4873,16 @@
             },
             {
                 "labels": [
-                    "partially",
-                    "supported",
-                    "not_supported"
+                    "not_supported",
+                    "not_supported",
+                    "partially"
                 ],
                 "answer": "In summary, police officers wear bullet proof vests to protect their vital organs, but must accept the risk of leaving their heads unprotected in order to remain agile and mobile."
             },
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "Helmets provide some protection, but are not designed to stop bullets."
@@ -4890,7 +4890,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "Lastly, officers must accept the psychological risk of leaving their heads unprotected in order to remain focused and alert on the job."
@@ -5049,7 +5049,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "Tobacco smoke contains over 70 known cancer-causing chemicals, including arsenic, benzene, formaldehyde, and vinyl chloride."
@@ -5057,7 +5057,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "supported"
                 ],
                 "answer": "When these chemicals are inhaled, they can damage the lungs and other organs in the body."
@@ -5065,7 +5065,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "supported"
                 ],
                 "answer": "These chemicals can also cause mutations in the cells of the body, which can lead to cancer."
@@ -5073,7 +5073,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "On the other hand, marijuana smoke does not contain nearly as many of these harmful chemicals as tobacco smoke."
@@ -5081,7 +5081,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "Marijuana smoke contains over 60 compounds that are known to be carcinogens, but many of those compounds are found in much smaller amounts than in tobacco smoke."
@@ -5114,7 +5114,7 @@
                 "labels": [
                     "partially",
                     "partially",
-                    "partially"
+                    "supported"
                 ],
                 "answer": "While marijuana smoke does contain carcinogens, the levels of those carcinogens are much lower than in tobacco smoke, and the presence of compounds with anti-cancer properties may even offset the risk of developing cancer."
             }
@@ -5136,7 +5136,7 @@
             {
                 "labels": [
                     "supported",
-                    "supported",
+                    "not_supported",
                     "supported"
                 ],
                 "answer": " Contact lenses are designed to center themselves on the eye and stay in place throughout the day."
@@ -5144,7 +5144,7 @@
             {
                 "labels": [
                     "partially",
-                    "supported",
+                    "not_supported",
                     "partially"
                 ],
                 "answer": "The lens material is designed to fit the shape of the eye and is made of a soft, flexible material that conforms to the shape of the eye."
@@ -5160,7 +5160,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "Additionally, the edge of the contact lens is designed to be thicker than the center, which helps the lens stay in place and resist movement."
@@ -5168,7 +5168,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "The thickness of the lens near its edge also helps to create a suction effect, which helps to keep the lens centered on the eye."
@@ -5176,7 +5176,7 @@
             {
                 "labels": [
                     "supported",
-                    "supported",
+                    "partially",
                     "supported"
                 ],
                 "answer": "Finally, the tear film that coats the eye helps to keep the lens centered and stable."
@@ -5184,7 +5184,7 @@
             {
                 "labels": [
                     "partially",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "The tear film is a combination of oils and mucus that helps to coat and stabilize the lens, preventing it from slipping out of position."
@@ -5486,29 +5486,29 @@
                 "labels": [
                     "not_supported",
                     "supported",
-                    "supported"
+                    "not_supported"
                 ],
                 "answer": " Although foods and drinks that are advertised as having 0 calories still contain trace amounts of calories, it is not enough to be significant to the body."
             },
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "Instead, these foods and drinks rely on artificially created sweeteners to provide the sweet taste that people want."
             },
             {
                 "labels": [
+                    "not_supported",
                     "partially",
-                    "partially",
-                    "supported"
+                    "partially"
                 ],
                 "answer": "The most common of these sweeteners are aspartame, acesulfame potassium, and sucralose."
             },
             {
                 "labels": [
-                    "supported",
+                    "not_supported",
                     "supported",
                     "supported"
                 ],
@@ -5524,16 +5524,16 @@
             },
             {
                 "labels": [
-                    "partially",
-                    "supported",
-                    "not_supported"
+                    "not_supported",
+                    "not_supported",
+                    "partially"
                 ],
                 "answer": "The amino acids are then used as energy, while the methanol is broken down further and eliminated from the body."
             },
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "A similar process happens with the other sweeteners."
@@ -5541,7 +5541,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "supported",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "Thus, although the food or drink is advertised as having 0 calories, it still provides energy to the body through the digestion of the sweeteners."
@@ -6381,7 +6381,7 @@
             {
                 "labels": [
                     "partially",
-                    "partially",
+                    "not_supported",
                     "not_supported"
                 ],
                 "answer": "Additionally, cold pillows are more breathable and better for cooling down your head and neck during hot summer months."
@@ -6580,7 +6580,7 @@
             {
                 "labels": [
                     "partially",
-                    "partially",
+                    "not_supported",
                     "partially"
                 ],
                 "answer": "The process begins with a type of immune system protein called Cas9, which is a naturally-occurring enzyme found in bacteria."
@@ -7500,7 +7500,7 @@
             {
                 "labels": [
                     "partially",
-                    "partially",
+                    "supported",
                     "supported"
                 ],
                 "answer": "By using random or unconventional characters, such as an @ instead of an a or a 1 instead of an l, spammers create messages that are more difficult for spam filters to detect and block."
@@ -7634,7 +7634,7 @@
             {
                 "labels": [
                     "partially",
-                    "partially",
+                    "not_supported",
                     "partially"
                 ],
                 "answer": "When consumed, asparagusic acid is broken down by enzymes in the liver, which then produces sulfur-containing compounds known as thiols."
@@ -7900,8 +7900,8 @@
             {
                 "labels": [
                     "partially",
-                    "partially",
-                    "partially"
+                    "not_supported",
+                    "not_supported"
                 ],
                 "answer": "When you scratch a certain spot on a dog, the vibrations that are sent to the nerve endings in their skin trigger a neurochemical response that results in a pleasurable sensation."
             },
@@ -8298,7 +8298,7 @@
             {
                 "labels": [
                     "not_supported",
-                    "partially",
+                    "not_supported",
                     "partially"
                 ],
                 "answer": " Synchronizing your pace with someone when walking can be a challenging task, but it is possible if you pay attention to the other person\u2019s pace and body movements."
@@ -8417,7 +8417,7 @@
             {
                 "labels": [
                     "partially",
-                    "partially",
+                    "supported",
                     "supported"
                 ],
                 "answer": "The company can then use the money from the sale of stock to fund various aspects of the business, such as paying for the cost of goods sold, investing in new products or services, and paying for operating expenses."
