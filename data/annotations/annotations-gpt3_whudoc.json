@@ -638,6 +638,50 @@
         ]
     },
     {
+        "question_id": 119,
+        "question": "Why do VGA/DVI cables have to be screwed in, but HDMI and other cables don't?",
+        "answers": [
+            "VGA/DVI cables are much more fragile than other cables like HDMI, so they need to be screwed in for additional stability and to prevent accidental disconnection.",
+            "The pins on VGA/DVI connectors are small and easily damaged if not secured properly, so the additional physical holding pressure provided by the screws is necessary.",
+            "Furthermore, the power cables are much thicker and physically stronger than video connectors, so they don't need to be screwed in.",
+            "However, HDMI cables and other cables do not need to be screwed in because they have much stronger conductors and connectors, making it much more difficult to accidentally disconnect them."
+        ],
+        "annotations": [
+            {
+                "labels": [
+                    "not_supported",
+                    "partially",
+                    "partially"
+                ],
+                "answer": "VGA/DVI cables are much more fragile than other cables like HDMI, so they need to be screwed in for additional stability and to prevent accidental disconnection."
+            },
+            {
+                "labels": [
+                    "supported",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "The pins on VGA/DVI connectors are small and easily damaged if not secured properly, so the additional physical holding pressure provided by the screws is necessary."
+            },
+            {
+                "labels": [
+                    "supported",
+                    "partially",
+                    "supported"
+                ],
+                "answer": "Furthermore, the power cables are much thicker and physically stronger than video connectors, so they don't need to be screwed in."
+            },
+            {
+                "labels": [
+                    "not_supported",
+                    "not_supported",
+                    "partially"
+                ],
+                "answer": "However, HDMI cables and other cables do not need to be screwed in because they have much stronger conductors and connectors, making it much more difficult to accidentally disconnect them."
+            }
+        ]
+    },
+    {
         "question_id": 156,
         "question": "Why do different European languages have such varying names for Germany?",
         "answers": [
@@ -767,6 +811,77 @@
                     "supported"
                 ],
                 "answer": "This is why we often see water droplets on the outside of cold cans, glasses of cold water and other cold surfaces."
+            }
+        ]
+    },
+    {
+        "question_id": 208,
+        "question": "How can someone put me in to jail if i am not guilty?",
+        "answers": [
+            "It is unfortunately possible to be wrongfully convicted and sent to jail even if you are innocent.",
+            "The rate of wrongful convictions in the United States is estimated to be between 2 and 10 percent, which means that there are potentially hundreds of thousands of innocent people who are in jail.",
+            "There are several potential causes of wrongful convictions.",
+            "One is bad police work, where some officers may hide, alter, or fabricate evidence, or lie on the stand, to wrongly convict someone.",
+            "Another is prosecutorial misconduct, where some prosecutors may hide exculpatory evidence or encourage witnesses to commit perjury, in order to convict an innocent person.",
+            "Finally, false confessions, where someone may confess to a crime they didn't commit under the pressure of an intense interrogation, can also lead to wrongful convictions.",
+            "In these cases, it is possible for someone to be sent to jail even if they are innocent."
+        ],
+        "annotations": [
+            {
+                "labels": [
+                    "supported",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "It is unfortunately possible to be wrongfully convicted and sent to jail even if you are innocent."
+            },
+            {
+                "labels": [
+                    "supported",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "The rate of wrongful convictions in the United States is estimated to be between 2 and 10 percent, which means that there are potentially hundreds of thousands of innocent people who are in jail."
+            },
+            {
+                "labels": [
+                    "supported",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "There are several potential causes of wrongful convictions."
+            },
+            {
+                "labels": [
+                    "supported",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "One is bad police work, where some officers may hide, alter, or fabricate evidence, or lie on the stand, to wrongly convict someone."
+            },
+            {
+                "labels": [
+                    "supported",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "Another is prosecutorial misconduct, where some prosecutors may hide exculpatory evidence or encourage witnesses to commit perjury, in order to convict an innocent person."
+            },
+            {
+                "labels": [
+                    "supported",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "Finally, false confessions, where someone may confess to a crime they didn't commit under the pressure of an intense interrogation, can also lead to wrongful convictions."
+            },
+            {
+                "labels": [
+                    "not_supported",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "In these cases, it is possible for someone to be sent to jail even if they are innocent."
             }
         ]
     },
@@ -3375,6 +3490,86 @@
                     "supported"
                 ],
                 "answer": "Despite this, having a ballistic helmet is essential for protecting vital organs and can be the difference between life and death in a dangerous situation."
+            }
+        ]
+    },
+    {
+        "question_id": 252,
+        "question": "Explain: Having a \"stone\" in your saliva gland.",
+        "answers": [
+            "Having a stone in your saliva gland, also known as sialolithiasis, is a condition where hardened mineral deposits form in the salivary glands.",
+            "It is more common in people aged 30 to 60 and men are more likely to get salivary stones than women.",
+            "The cause is not known, but factors such as dehydration, trauma to the mouth, smoking and gum disease have been associated with salivary stone formation.",
+            "Most stones affect the submandibular glands located at the floor of the mouth, but they can also affect the parotid glands, located on the inside of the cheeks, or the sublingual glands, which are under the tongue.",
+            "The stones are mostly composed of calcium and can block the flow of saliva into the mouth.",
+            "Symptoms of salivary stones can include pain, swelling, fever, difficulty swallowing, dry mouth and bad breath.",
+            "Home remedies for getting rid of salivary stones include sucking on citrus fruits or hard candies, drinking plenty of fluids, gentle massage of the affected area, taking medications such as ibuprofen and acetaminophen, and sucking on ice cubes.",
+            "If these treatments do not work, a doctor may need to remove the stone surgically."
+        ],
+        "annotations": [
+            {
+                "labels": [
+                    "supported",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "Having a stone in your saliva gland, also known as sialolithiasis, is a condition where hardened mineral deposits form in the salivary glands."
+            },
+            {
+                "labels": [
+                    "supported",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "It is more common in people aged 30 to 60 and men are more likely to get salivary stones than women."
+            },
+            {
+                "labels": [
+                    "supported",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "The cause is not known, but factors such as dehydration, trauma to the mouth, smoking and gum disease have been associated with salivary stone formation."
+            },
+            {
+                "labels": [
+                    "supported",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "Most stones affect the submandibular glands located at the floor of the mouth, but they can also affect the parotid glands, located on the inside of the cheeks, or the sublingual glands, which are under the tongue."
+            },
+            {
+                "labels": [
+                    "partially",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "The stones are mostly composed of calcium and can block the flow of saliva into the mouth."
+            },
+            {
+                "labels": [
+                    "not_supported",
+                    "partially",
+                    "partially"
+                ],
+                "answer": "Symptoms of salivary stones can include pain, swelling, fever, difficulty swallowing, dry mouth and bad breath."
+            },
+            {
+                "labels": [
+                    "supported",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "Home remedies for getting rid of salivary stones include sucking on citrus fruits or hard candies, drinking plenty of fluids, gentle massage of the affected area, taking medications such as ibuprofen and acetaminophen, and sucking on ice cubes."
+            },
+            {
+                "labels": [
+                    "not_supported",
+                    "not_supported",
+                    "not_supported"
+                ],
+                "answer": "If these treatments do not work, a doctor may need to remove the stone surgically."
             }
         ]
     },
@@ -6224,6 +6419,86 @@
                     "supported"
                 ],
                 "answer": "However, these occurrences are still rare, and thunder snow remains an uncommon phenomenon."
+            }
+        ]
+    },
+    {
+        "question_id": 166,
+        "question": "if I need pain relief, how do I know whether to choose between aspirin, Tylenol, Advil, etc.? They are all labeled as pain relievers.",
+        "answers": [
+            "Deciding which pain reliever to choose depends on the type of pain you are experiencing and the severity of your symptoms.",
+            "Acetaminophen (Tylenol) is a good choice for mild to moderate pain, such as headaches, arthritis pain, or a fever.",
+            "It is less likely to cause stomach issues than other OTC pain-relievers.",
+            "Ibuprofen (Advil) and Naproxen are both non-steroidal anti-inflammatory drugs (NSAIDs) that reduce fevers, pain, and inflammation.",
+            "They are good choices for treating menstrual cramps, headaches, toothaches, backaches, arthritis, muscle strains, and gout.",
+            "Aspirin is also an NSAID that relieves pain.",
+            "It may be a good choice for treating headaches, toothaches, colds, and fever.",
+            "If you are unsure which medication to take, you should consult with your doctor or pharmacist."
+        ],
+        "annotations": [
+            {
+                "labels": [
+                    "not_supported",
+                    "not_supported",
+                    "not_supported"
+                ],
+                "answer": "Deciding which pain reliever to choose depends on the type of pain you are experiencing and the severity of your symptoms."
+            },
+            {
+                "labels": [
+                    "partially",
+                    "supported",
+                    "partially"
+                ],
+                "answer": "Acetaminophen (Tylenol) is a good choice for mild to moderate pain, such as headaches, arthritis pain, or a fever."
+            },
+            {
+                "labels": [
+                    "supported",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "It is less likely to cause stomach issues than other OTC pain-relievers."
+            },
+            {
+                "labels": [
+                    "supported",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "Ibuprofen (Advil) and Naproxen are both non-steroidal anti-inflammatory drugs (NSAIDs) that reduce fevers, pain, and inflammation."
+            },
+            {
+                "labels": [
+                    "supported",
+                    "supported",
+                    "partially"
+                ],
+                "answer": "They are good choices for treating menstrual cramps, headaches, toothaches, backaches, arthritis, muscle strains, and gout."
+            },
+            {
+                "labels": [
+                    "supported",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "Aspirin is also an NSAID that relieves pain."
+            },
+            {
+                "labels": [
+                    "supported",
+                    "supported",
+                    "supported"
+                ],
+                "answer": "It may be a good choice for treating headaches, toothaches, colds, and fever."
+            },
+            {
+                "labels": [
+                    "not_supported",
+                    "not_supported",
+                    "not_supported"
+                ],
+                "answer": "If you are unsure which medication to take, you should consult with your doctor or pharmacist."
             }
         ]
     },
