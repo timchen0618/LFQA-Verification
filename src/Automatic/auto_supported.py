@@ -1,18 +1,19 @@
-import logging
 import argparse
-import json
 import csv
-import torch
-from model_summac import SummaCZS, SummaCConv
-from tqdm import tqdm
+import json
+import logging
 import random
 
-from sklearn.metrics import f1_score
-from torch.utils.data import (DataLoader, SequentialSampler, TensorDataset)
-
-from transformers.models.roberta.tokenization_roberta import RobertaTokenizer
-from test_on_docNLI_RoBERTa import RobertaForSequenceClassification, convert_examples_to_features, evaluation
+import torch
+from get_data_from_test_file import get_data_from_test_file
 from load_data_docnli import load_NLIdataset
+from model_summac import SummaCConv, SummaCZS
+from sklearn.metrics import f1_score
+from test_on_docNLI_RoBERTa import (RobertaForSequenceClassification,
+                                    convert_examples_to_features, evaluation)
+from torch.utils.data import DataLoader, SequentialSampler, TensorDataset
+from tqdm import tqdm
+from transformers.models.roberta.tokenization_roberta import RobertaTokenizer
 
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(name)s - %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -215,7 +216,9 @@ def load_model(args, device):
             model = SummaCConv(models=[model_name], bins='percentile', granularity="sentence", nli_labels="e", device=device, start_file="default", agg="mean")
             tokenizer = None
     else:
-        from transformers import AutoTokenizer, AutoModelForSequenceClassification, AutoModelForSeq2SeqLM
+        from transformers import (AutoModelForSeq2SeqLM,
+                                  AutoModelForSequenceClassification,
+                                  AutoTokenizer)
         tokenizer = AutoTokenizer.from_pretrained(args.model)
         if args.model == 'google/t5_xxl_true_nli_mixture':
             model = AutoModelForSeq2SeqLM.from_pretrained(args.model)
@@ -293,10 +296,9 @@ def main(args):
     
     all_test_files = json.load(open(args.input_file))
     for f_in in all_test_files:
-        data = json.load(open(f_in['input_file']))
+        data = get_data_from_test_file(f_in)
         keys = data.keys()
 
-        print('loading data....', f_in['input_file'])
         accuracy_list = []
         f1_list = []
         er_list = []

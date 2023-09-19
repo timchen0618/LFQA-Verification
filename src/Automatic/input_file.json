@@ -1,31 +1,38 @@
-[  
+[
     {
-        "input_file" :"/path/to/webgpt_data/",
+        "annotations_path": "/u/sa54744/lfqa/LFQA-Verification/data/annotations/annotations-webgpt.json",
+        "docs_path": "/u/sa54744/lfqa/LFQA-Verification/data/docs/docs-webgpt.json",
+        "prediction_key_template": "webgpt-{QUESTION_ID}",
         "positive_label": 0
     },
     {
-        "input_file" :"/path/to/gpt3_with_docs_data/",
+        "annotations_path": "/u/sa54744/lfqa/LFQA-Verification/data/annotations/annotations-gpt3_wdoc.json",
+        "docs_path": "/u/sa54744/lfqa/LFQA-Verification/data/docs/docs-webgpt.json",
+        "prediction_key_template": "gpt3_wdoc-{QUESTION_ID}",
         "positive_label": 0
     },
     {
-        "input_file" :"/path/to/gpt3_with_human_docs_data/",
+        "annotations_path": "/u/sa54744/lfqa/LFQA-Verification/data/annotations/annotations-gpt3_whudoc.json",
+        "docs_path": "/u/sa54744/lfqa/LFQA-Verification/data/docs/docs-webgpt.json",
+        "prediction_key_template": "gpt3_whudoc-{QUESTION_ID}",
         "positive_label": 0
     },
     {
-        "input_file" :"/path/to/alpaca_with_docs_data/",
+        "annotations_path": "/u/sa54744/lfqa/LFQA-Verification/data/annotations/annotations-alpaca_wdoc.json",
+        "docs_path": "/u/sa54744/lfqa/LFQA-Verification/data/docs/docs-webgpt.json",
+        "prediction_key_template": "alpaca_wdoc-{QUESTION_ID}",
         "positive_label": 0
     },
     {
-        "input_file" :"/path/to/gpt3_data/",
+        "annotations_path": "/u/sa54744/lfqa/LFQA-Verification/data/annotations/annotations-gpt3.json",
+        "docs_path": "/u/sa54744/lfqa/LFQA-Verification/data/docs/docs-webgpt.json",
+        "prediction_key_template": "gpt3-{QUESTION_ID}",
         "positive_label": 1
     },
     {
-        "input_file" :"/path/to/alpaca_data/",
+        "annotations_path": "/u/sa54744/lfqa/LFQA-Verification/data/annotations/annotations-alpaca.json",
+        "docs_path": "/u/sa54744/lfqa/LFQA-Verification/data/docs/docs-webgpt.json",
+        "prediction_key_template": "alpaca-{QUESTION_ID}",
         "positive_label": 1
     }
 ]
-
-
-        
-
-

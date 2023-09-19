@@ -1,8 +1,11 @@
-import json
-from sklearn.metrics import f1_score
 import argparse
-from tqdm import tqdm
+import json
 from collections import Counter
+
+from get_data_from_test_file import get_data_from_test_file
+from sklearn.metrics import f1_score
+from tqdm import tqdm
+
 
 def acc(pred, label):
     assert len(pred) == len(label)
@@ -59,7 +62,7 @@ def main(args):
     for f_in in all_test_files:
         label_count = {'partially':0, 'supported':0, 'not_supported':0}
         label_space = {'partially':0, 'supported':1, 'not_supported':0}
-        data = json.load(open(f_in['input_file']))
+        data = get_data_from_test_file(f_in)
         keys = data.keys()
         outputs = []
         labels = []
@@ -121,8 +124,8 @@ if __name__ == '__main__':
 # only use this when you have the predictions and the data, but did not compute the supported score
 
 # eval 
-# python eval.py --pred_file predictions/pred.json --output_file results/results.json 
+# python eval.py --pred_file predictions/pred.json --output_file results/results.tsv 
 
 # eval ensembled models 
-# python eval.py --pred_file  predictions/pred_a.json predictions/pred_b.json --output_file results/results.json 
+# python eval.py --pred_file  predictions/pred_a.json predictions/pred_b.json --output_file results/results.tsv 
 

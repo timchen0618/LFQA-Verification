@@ -22,7 +22,7 @@
 echo $model
 
 threshold=0.2
-python nli.py \
+python auto_supported.py \
         --model ${model} \
         --input_file input_file.json \
         --threshold $threshold \
