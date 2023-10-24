@@ -1,5 +1,5 @@
-# How Language Models Use In-context Evidence Documents to Generate Long-form Answers
-This is the repository for the paper [How Language Models Use In-context Evidence Documents to Generate Long-form Answers]().
+# Understanding Retrieval Augmentation for Long-Form Question Answering
+This is the repository for the paper [Understanding Retrieval Augmentation for Long-Form Question Answering](https://arxiv.org/abs/2310.12150).
 
 ## Contents
 1. [Requirements](#requirements)
