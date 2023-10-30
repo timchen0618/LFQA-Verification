@@ -37,3 +37,11 @@ Steps for retrieving Bing evidence documents can be found in
 [`src/bing_search`](https://github.com/timchen0618/LFQA-Verification/tree/main/src/bing_search).
 
 ## Citation
+```
+@article{chen2023understanding,
+  title={Understanding Retrieval Augmentation for Long-Form Question Answering},
+  author={Chen, Hung-Ting and Xu, Fangyuan and Arora, Shane A and Choi, Eunsol},
+  journal={arXiv preprint arXiv:2310.12150},
+  year={2023}
+}
+```
