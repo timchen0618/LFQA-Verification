@@ -81,15 +81,26 @@ def get_openai_response(
         logprobs: int = 1,
         stop: Any = None,
         echo: bool = True):
-    response = openai.Completion.create(model=model_name,
-                                        prompt=prompt,
-                                        max_tokens=max_tokens,
-                                        temperature=temperature,
-                                        top_p=top_p,
-                                        n=n,
-                                        logprobs=logprobs,
-                                        stop=stop,
-                                        echo=echo)
+    if model_name.startswith("text-"):
+        # Use legacy completions API for consistency with early experiments
+        response = openai.Completion.create(model=model_name,
+                                            prompt=prompt,
+                                            max_tokens=max_tokens,
+                                            temperature=temperature,
+                                            top_p=top_p,
+                                            n=n,
+                                            logprobs=logprobs,
+                                            stop=stop,
+                                            echo=echo)
+    else:
+        messages = [{"role": "user", "content": prompt}]
+        response = openai.ChatCompletion.create(model=model_name,
+                                                messages=messages,
+                                                max_tokens=max_tokens,
+                                                temperature=temperature,
+                                                top_p=top_p,
+                                                n=n,
+                                                stop=stop)
     return response
 
 
@@ -103,9 +114,12 @@ def _prompt_openai_lm(
     openai.organization = organization
 
     for prompt in tqdm(prompts, total=len(prompts)):
-        response = get_openai_response(prompt, model_name, max_tokens)
-        output = response['choices'][0]['text']
-        yield _extract_answer(prompt, output)
+        response = get_openai_response(prompt, model_name, max_tokens, echo=False)
+        if 'text' in response['choices'][0]:
+            output = response['choices'][0]['text']
+        else:
+            output = response['choices'][0]['message']['content']
+        yield output
 
 
 def _prompt_lm(
@@ -182,7 +196,7 @@ def main():
     argparse.add_argument("--model_parallelism", dest='model_parallelism', action='store_true')
 
     # OpenAI LM args
-    argparse.add_argument("--max_tokens", dest='max_tokens', default=256, type=int)
+    argparse.add_argument("--max_tokens", dest='max_tokens', default=1024, type=int)
     argparse.add_argument('--org', "--organization", dest='organization', default='')
 
     args = argparse.parse_args()
